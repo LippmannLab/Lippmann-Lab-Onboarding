@@ -1,6 +1,6 @@
 ---
 title: "Lippmann Lab Onboarding"
-author: "Kylie Balotin"
+#author: "Kylie Balotin"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
