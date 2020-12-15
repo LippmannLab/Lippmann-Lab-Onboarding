@@ -27,7 +27,7 @@ Everyone is required to take several training modules through [Oracle](https://s
 
 - Working Safely with Human-Derived Materials
 
-- Regulated Medical Waste Shipping TRaining for Lab Researchers USDOT 
+- Regulated Medical Waste Shipping Training for Lab Researchers USDOT 
   - renewed every 3-4 years 
 
 If you are working with animals, you should also sign up for the following training module:
