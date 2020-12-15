@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.15)  15 DEC 2020 10:06
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.15)  15 DEC 2020 12:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,17 +827,25 @@ Underfull \hbox (badness 1102) in paragraph at lines 155--155
 
 [9
 
-] (./Onboarding-Book.aux)
+] [10]
+Chapter 3.
+[11
+
+] [12
+
+]
+Chapter 4.
+[13] (./Onboarding-Book.aux)
 Package rerunfilecheck Info: File `Onboarding-Book.out' has not changed.
-(rerunfilecheck)             Checksum: F4CFB611C7D8D192C57921D7D326CDF2;1304.
+(rerunfilecheck)             Checksum: 2FECFC5D9D36FAE53476D68F92AB350F;2293.
  ) 
 Here is how much of TeX's memory you used:
- 16243 strings out of 479291
- 286715 string characters out of 5875995
- 728468 words of memory out of 5000000
- 35522 multiletter control sequences out of 15000+600000
+ 16253 strings out of 479291
+ 286858 string characters out of 5875995
+ 728795 words of memory out of 5000000
+ 35532 multiletter control sequences out of 15000+600000
  409865 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 94i,6n,118p,644b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 94i,6n,118p,755b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Onboarding-Book.pdf (9 pages).
+Output written on Onboarding-Book.pdf (13 pages).
