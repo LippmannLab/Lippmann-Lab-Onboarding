@@ -14,7 +14,7 @@ description: "The purpose of this document is to outline what the Lippmann lab e
 
 # Preface {-}
 
-The purpose of this document is to outline what the Lippmann lab expects from incoming graduate students and postdoctoral fellows in terms of organization, work ethic, and accountability, as well as to help new lab members get integrated as quickly as possible
+The purpose of this document is to outline what the Lippmann lab expects from incoming graduate students and postdoctoral fellows in terms of organization, work ethic, and accountability, as well as to help new lab members get integrated as quickly as possible. 
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
