@@ -3,7 +3,7 @@
 ## Storage and Documentation 
 
 ## Reference Management
-How to download, how to install add-ins for citation manageers
+How to download, how to install add-ins for citation managers
 
 ## Communication 
 How to present scientific work

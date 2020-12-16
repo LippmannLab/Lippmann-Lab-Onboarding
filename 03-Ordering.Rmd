@@ -1,5 +1,14 @@
 # Ordering {#ordering}
 
+## On Campus Core Facilities
+There are a couple places on campus where reagents and chemicals are stocked and can be purchased for immediate use.
+
+### Chemistry Storeroom (aka "Chem Stock") {#chemstock}
+Chemicals can be purchased for immediate use at the Chemistry Stock Room (located in the Chemistry building of the Stevenson Center Complex) including 200 proof ethanol, bleach, and acetone. This storeroom also has many other useful items such as NMR tubes, beakers/flasks, gloves, lab notebooks, lab coats, safety glasses/goggles, and tubing. Items can be ordered using the [iLab Chemistry Storeroom webpage](https://vanderbilt.corefacilities.org/sc/4253/vanderbilt-chemical-storeroom/?tab=requests) for pick up. Make sure you have the proper secondary container if transferring chemicals like acetone from the storeroom to the lab. Ethanol and bleach do not need secondary containers. 
+
+### Molecular Cell Biology Resource Core (MCBR, aka "The Core") {#core}
+Many disposable items that we use are available through MCBR for immediate use including PBS, UltraPure Water, Western Blot secondary antibodies, DMEM/F12, Neurobasal Medium, B27 supplement, N2 supplement, etc. This is the best option if you need a reagent immediately or are not buying in bulk. MCBR is located in rooms 902 and 904 of Light Hall. In addition to stocking supplies, MCBR also provides DNA/RNA oligo and siRNA ordering services, is a instrument facility (rtPCR systems), and a cell culture media preparation service. Purchasing items will be conducted through your iLabs account while you are in the Core. You can also also check whether items are in stock or request for them to be purchased using the [iLab VUMC MCBR Core (Molecular Cell Biology Resource webpage)](https://vanderbilt.corefacilities.org/sc/4722/vumc-mcbr-core-molecular-cell-biology-resource/?tab=services).
+
 ## Ordering Training
 
 ### Departmental Shopper
@@ -119,8 +128,7 @@ Non-catalog orders refer to vendors that are not on the Acquire catalog. This in
 
 
 ### Amazon and Captial Equipment Orders
-Send your Amazon order purchase request form and Ethan's approval email to the [Chemical Engineering Department](mailto:chbeorders@vanderbilt.edu). The subject of the email should be "Your Last Name - Lippmann - Vendor." Make sure your justification includes this statement in your purchase request form: "These items could not be found with these specifications or this price from any other vendor."
-
+Send your Amazon order purchase request form and Ethan's approval email to the [Chemical Engineering Department](mailto:chbeorders@vanderbilt.edu). The subject of the email should be "Your Last Name - Lippmann - Vendor." Make sure your justification includes this statement in your purchase request form: "These items could not be found with these specifications or this price from any other vendor." Capital equipment is when at least one component is greater than $5,000. If you are unsure, talk to [Purchasing Services](https://finance.vanderbilt.edu/purchasingandpaymentservices/purchasingservices/). 
 ### Information to Include When Reassigning to a Procurement Requester {#reassign} 
 When you are reassigning your requisition to a Procurement Requester, please include the following information:
 
@@ -160,3 +168,15 @@ These are commonly used grants to purchase lab supplies. Ethan may direct you to
 - R21: 600799.1
 
 - NSF (uF, microformulator): GC_404654.1
+
+## General Ordering Notes
+
+- **Pay attention to the available amount of disposables.** Many orders take several days for the shipment to arrive. If you use the last pipette or culture plate and we can't get any more for a week, everybody's work suffers! When in doubt, just order multiple boxes of things like pipettes or reorder immediately after you open the last box. 
+
+- **Get quotes on kits or biologics exceeding $300.** If we buy in bulk, we will almost always get a discount off the website price. All you have to do is email or call the sales department for a company and they will provide a quote to be used on your order. Names, contact information for sales reps, and updated product quotes should be recorded in the [Google Drive Purchasing Folder](https://drive.google.com/file/d/1MHIqY_gJsaVwZvy92M90tAaFEfcg_pQw/view?usp=sharing). If you are ordering from a new vendor that is not in the Vanderbilt system, you must get a quote and fill in the company information in the purchase request form. 
+
+- **Purchase from [Chem Stock](#chemstock) whenever possible.** Chemicals can be purchased from Fisher but typically the Chem Stock has the same ones at cheaper prices (especially 200 proof ethanol), and if the items are in stock, you can get them right away. You will need to make sure you have the proper secondary container for transferring the chemicals back to lab. 
+
+- **When purchasing from Fisher or VWR, we do not pay shipping.**
+
+- **Many disposable items that we use are avaliable through the [Molecular Cell Biology Resource Core (MCBR)](#core) - if stocked, these items are avaliable immediately and we do not pay shipping costs.** If not purchasing in bulk, always buy from MCBR if possible. They stock many items from Thermo Fisher Scientific (Life Technologies), Sigma Aldrich, Promega, Qiagen, and Bio-Rad that we use frequently. You can also order non-stocked items through the Core that will NOT include a shipping charge, but you will have to wait for them to ship (a useful option if you don't need these items immediately). 

@@ -1,4 +1,4 @@
-# Before you can work in the lab {#training}
+# Before You Can Work in the Lab {#training}
 
 ## Logging onto Oracle to Access Training Modules
 
