@@ -1,5 +1,5 @@
 # Frequently Asked Questions
-These are topics that are commonly asked about when new members join the lab. 
+These are topics that are commonly asked about when new members join the lab. Additionally, feel free to ask senior lab members for more information or advice whenever you have questions. 
 
 ## Scheduling Vacations
 Taking time off is necessary to avoid burn-out during graduate school. While iPSC culture requires daily maintenance, it is still possible to take vacations and rest. Short trips over the weekend do not need to be cleared with Ethan, but Ethan should be aware if you are planning on taking longer periods of time off. 
@@ -29,6 +29,8 @@ You should not:
 Typically, first year students will get Thanksgiving break off. More senior students will rotate who covers this holiday. The lab generally shuts down for the holidays in December/January, although a couple of lab members may stay behind for maintaining long-term cultures (like neurons or organoids) or animals. Holidays such as the 4th of July or Labor Day are usually treated as half days where many people usually choose to do their bare minimum work and take the rest of the day off. If lab meetings fall on the U.S. Election Day, Ethan will cancel those meetings in order to allow lab members to vote if they have not already.
 
 It is up to you to make sure that you are getting the necessary work done in order to graduate on time. 
+
+## Mental Health in Graduate School
 
 ## Registering for Courses in the YES Portal
 Graduate students register for courses on the [Vanderbilt YES Portal](http://yes.vanderbilt.edu/). You can register for courses using the "Student Registration" tab. All graduate students are required to enroll in 9 credit hours every semester. 
@@ -65,15 +67,54 @@ Graduate students are expected to take courses that are required by their specif
 
 - BME 8901: Computational Genomics (offering variable)
 
-BME students can take 1 Chemical Engineering Course as as BME Course requirement with no questions asked. Additional courses must be cleared by Dr. Reinhart-King. 
+BME students can take 1 Chemical Engineering Course as as BME Course requirement with no questions asked. Additional courses must be cleared by [Dr. Reinhart-King](mailto:cynthia.reinhart-king@VANDERBILT.EDU). 
 
 ## Core Facilities on Campus
 
 
-## Training Grants 
+## Potential Vanderbilt Funding Sources
+
+### Training Grants
+
+
+### Graduate Student Concil Travel Grant
+
+
+### VICTOR
 
 
 ## Common Conferences
+
+
+## Career Resources
+
+
+## Early Milestones in Each Department
+There's a lot of variability in the department graduation requirements. Here's a short summary of some of the milestones that occur up to the qualifying exam and what is required for each milestone for the departments that are commonly represented in the Lippmann Lab. Graduate school documents for forming your thesis committee, scheduling your qualifying exam, and preparing your dissertation/defense can be found [here](https://gradschool.vanderbilt.edu/academics/forms_timeline.php). Make sure you are aware of your department's specific requirements for each milestone. 
+
+### Chemical and Biomolecular Engineering (CHBE) {#chbe}
+- **Departmental Exam:** 
+
+- **Qualifying Exam:** 
+
+### Biomedical Engineering (BME) {#bme}
+- **Mentoring Committee Meetings:** Prior to forming our thesis committee, BME graduate students are randomly assigned a committee of 3 BME professors (including Ethan) around November of their first year. BME students are expected to meet with their mentoring committee every 6 months until they form their thesis committee. These meetings are typically just 30 minutes with 15 minutes spent presenting to your committee and 15 minutes for questions. The template for mentoring committee meeting presentations can be found [here]().
+
+- **Qualifying Exam:**
+
+### Interdisciplinary Materials Science Program (IMS) {#ims}
+- **Preliminary Exam:**
+
+- **Qualifying ExamL**
+
+### Interdisciplinary Graduate Program (IGP) {#igp}
+- **Qualifying Exam:**
+
+
+## Advice on Scheduling Committee Meetings
+
+
+## CZI Resources
 
 
 ## Two Factor Authentification

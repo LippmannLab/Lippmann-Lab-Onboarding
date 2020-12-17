@@ -1,5 +1,5 @@
 # Manuscript Preparation 
-Your papes are your currency from your time in the lab - peer-reviewed proof that you are are highly skilled and successful researcher. As such, the final versions should be clear and concise but thorough and polished. Read a few papers Ethan published during graduate school and his postdoctoral fellowship ([Lippmann et al, *Stem Cells,* 2014](https://stemcellsjournals-onlinelibrary-wiley-com.proxy.library.vanderbilt.edu/doi/full/10.1002/stem.1622); [Lippmann et al, *Nat Biotechnol,* 2012](https://www-nature-com.proxy.library.vanderbilt.edu/articles/nbt.2247)) to get an idea of the style he prefers. Additionally you can see a list of the papers that have been published by members of the lab [here](http://www.lippmannlab.com/publications).
+Your papers are your currency from your time in the lab - peer-reviewed proof that you are are highly skilled and successful researcher. As such, the final versions should be clear and concise but thorough and polished. Read a few papers Ethan published during graduate school and his postdoctoral fellowship ([Lippmann et al, *Stem Cells,* 2014](https://stemcellsjournals-onlinelibrary-wiley-com.proxy.library.vanderbilt.edu/doi/full/10.1002/stem.1622); [Lippmann et al, *Nat Biotechnol,* 2012](https://www-nature-com.proxy.library.vanderbilt.edu/articles/nbt.2247)) to get an idea of the style he prefers. Additionally you can see a list of the papers that have been published by members of the lab [here](http://www.lippmannlab.com/publications).
 
 ## The Process
 
@@ -17,7 +17,7 @@ Your papes are your currency from your time in the lab - peer-reviewed proof tha
     
     - The lab has a [Biorender](https://biorender.com/) license, so you can ask Ethan to get access to the program in order to make figures.
     
-    - [Vanderbilt IT Software Store](https://it.vanderbilt.edu/software-store/index.php) provides free software to students, staff, and faculty including Microsoft Office 365 ProPlus and ChemBioDraw as well as discounted subscriptions such as Adobe Photoshop and Prism. If you think a program would be broadly beneficial for the lab to purchase a license for, discuss it with Ethan. 
+    - [Vanderbilt IT Software Store](https://it.vanderbilt.edu/software-store/index.php) provides free software to students, staff, and faculty including Microsoft Office 365 ProPlus and ChemBioDraw as well as discounted subscriptions for programs like Adobe Photoshop and Prism. If you think a program would be broadly beneficial for the lab to purchase a license for, discuss it with Ethan. 
 
 7. **After assembling the figures and submitting the paper, provide Ethan with the figures** ***minus*** **their lettering (a, b, c, etc.).** This makes it easier to use these figures for presentations. 
 
@@ -25,10 +25,8 @@ Your papes are your currency from your time in the lab - peer-reviewed proof tha
 
 9. **Celebrate when the paper is accepted.** First round for the entire lab is always on Ethan!
 
-## Tips from Senior Lab Members
+## Writing Tips and Resources - need to fill in at some point
 
-- Getting started is the hardest part - just start writing once you are ready and get words on the paper. Things can be edited down afterwards before sending it to Ethan. 
-
-- The university has a few writing accountability 
+- The university has a few writing accountability programs.
 
 - CZI/Katja 

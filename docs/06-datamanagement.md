@@ -2,7 +2,15 @@
 
 ## Storage and Documentation 
 
-## Reference Management
+### Lab Shared Network Drive
+
+
+### Vanderbilt Box
+
+
+### Github 
+
+## Reference Management {#zotero}
 How to download, how to install add-ins for citation managers
 
 ## Communication 

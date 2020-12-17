@@ -28,6 +28,19 @@ Everyone is required to take several training modules through [Oracle](https://s
 ## Required Training for Lab Members Conducting Animal Studies
 If you are working with animals, you should also sign up for the following training module:
 
-- Prior to starting animal work, new lab members must be added to the appropriate IACUC protocols. 
+- Prior to starting animal work, new lab members must be added to the appropriate IACUC protocols by Ethan or another individual with protcol editing rights. 
 
-- 
+- Fill out the [Animal Allergy Form](http://healthandwellness.vanderbilt.edu/news/2011/09/animal-allergy-questionnaire/). 
+
+- Complete [AALAS Training Couses](https://www.vumc.org/acup/iacuc/training/required_training). Note that if you are using animals other than mice or rats, you may need to complete additional training modules. 
+
+- In order to gain access to the animal facility, you must complete the following steps:
+  
+  - Confirm that you have finished training and filling out the allergy form and that you have been added to an approved IACUC Protocol.
+  
+  - Determine the facility you want to use.
+  
+  - Register for a specific Facility Tour (date and time) by emailing [Jenny Taylor](mailto:jenny.taylor@vumc.org) or registering for a tour through [Rate](https://www.mc.vanderbilt.edu/gcm/rate/in
+dex.php?SessionID=1495). 
+
+For more information, refer to the [VUMC Animal Care and Use Program](https://www.vumc.org/acup/welcome) or ask a senior lab member who works with animals. 
