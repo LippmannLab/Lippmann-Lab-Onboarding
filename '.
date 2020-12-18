@@ -44,4 +44,9 @@ processing file: FAQ.Rmd
 output file: FAQ.knit.md
 
 
-Output created: docs/Onboarding-Book.pdf
+
+processing file: Contributing.Rmd
+output file: Contributing.knit.md
+
+
+Output created: docs/Onboarding-Book.epub
