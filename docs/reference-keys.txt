@@ -81,3 +81,9 @@ how-to-contribute
 not-comfortable-with-coding
 comfortable-with-github
 interested-in-assisting-the-document-maintenance
+resources
+graduate-student-organizations
+diversity-and-inclusion-organizations
+career-development
+mental-and-physical-health-services
+graduate-student-and-postdoctoral-fellow-organizations
