@@ -33,7 +33,7 @@ It is up to you to make sure that you are getting the necessary work done in ord
 ## Mental Health in Graduate School
 Mental health is a major issue in graduate school. Many members of the lab use mental health resources available on campus including the [University Counseling Center (UCC)](https://www.vanderbilt.edu/ucc/) and the [Vanderbilt Graduate Life Coach](https://gradschool.vanderbilt.edu/current_students/gradlife.php). Our medical insurances provides free access to [psychiatry services](https://www.vanderbilt.edu/ucc/services/psychiatric-services/) although medication may still cost some money. Outside resources such as [PhD Balance](https://www.phdbalance.com/). Feel free to reach out to other members of the lab if you are having issues or need people to talk to! 
 
-## Advice to Navigating Co-Mentorships 
+## Advice on Navigating Co-Mentorships 
 
 
 ## Registering for Courses in the YES Portal
@@ -73,7 +73,7 @@ Graduate students are expected to take courses that are required by their specif
 
 BME students can take 1 Chemical Engineering Course as as BME Course requirement with no questions asked. Additional courses must be cleared by [Dr. Reinhart-King](mailto:cynthia.reinhart-king@VANDERBILT.EDU). 
 
-## Core Facilities on Campus
+## Core Facilities on Campus {#corefacilities}
 There are a variety of equipment that graduate students and postdocs can use through [Vanderbilt University (VU)](https://www.vanderbilt.edu/cores/cores-facilities.php) and the [Vanderbilt University Medical Center (VUMC)](https://www.vumc.org/oor/institutional-research-shared-resources-and-core-facilities). Common core facilities that the Lippmann Lab uses includes the VUMC Flow Cytometry Shared Resource, VUMC Translational Pathology Shared Resource, VU NMR Facility, VU Cell Imaging Shared Resource (CISR), and the Vanderbilt Institute of Nanoscale Science and Engineering (VINSE). If you are interested in seeing what equipment the lab is trained to use, you can look at [this spreadsheet](https://docs.google.com/spreadsheets/d/1gsTkMHcHbQ4z3y_Iq0_OSRODjhGSvkoRmYmUvWKNb2M/edit?usp=sharing). You can also talk to Ethan about getting trained to use different facilities on campus. Students should have an iLabs account set up in order to use most core facilities. 
 
 ## Potential Vanderbilt Funding Sources
@@ -132,8 +132,11 @@ It can be notoriously difficult to schedule meetings with committee members due 
 ## CZI Resources
 The Chan-Zuckerberg Initiative (CZI) Neurodegeneration Challenge Network (NDCN) provides resources for Lippmann lab trainees. They hold an annual conference where Ethan can take 2 trainees; he will discuss how trainees will be selected for this conference before it starts. They also hold a weekly seminar series. The schedule for this seminar will be sent out in the monthly newsletter. All seminar presentations are recorded in the [NDCN forum](https://ndcn-forum.cziscience.com/). Additionally, there is a Slack workspace that staff, graduate students, and postdocs can access. There are weekly Computational Office Hours where trainees can learn to a variety of computational topics including processing RNAseq data and creating reproducible code. There is also a staff and trainee database being developed for further collaborations and networking. Talk to Ethan or senior lab members if you are interested in getting more involved with the opportunities provided by CZI. 
 
-## Two Factor Authentification
+## Two Factor Authentification {#duo}
 Vanderbilt uses Duo Security for extra protection when logging onto Vanderbilt website and to access files remotely. Use [this link](https://it.vanderbilt.edu/services/catalog/security/identity_and_access_management/Multi_Factor_Authentication.php) to set up Duo with your computer or phone. 
+
+## OneTab
+[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en) is a Google Chrome extension that some lab members have found useful. When you inevitably have billions of tabs open in your browser, OneTab can be used to condense all the tabs into a single list that you can organize. 
 
 ## Mentoring Opportunities 
 There are many opportunities to mentor younger students in the Lippmann lab. 

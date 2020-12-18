@@ -1,6 +1,6 @@
 # General {#general}
 
-## Accessing Lab Accounts and Spaces
+## Accessing Lab Accounts and Spaces {#access}
 
 1. The lab has a [Google Drive Folder](https://drive.google.com/drive/folders/0Bwvn9S-4oeMmeHhzUS1nM0FNak0?usp=sharing) that we use for documentation and inventory. It should be kept as up-to-date as possible. 
 
@@ -14,7 +14,7 @@
 
 6. Create an [iLabs](https://vanderbilt.corefacilities.org/landing/2191) account. The first time you log into your account, you will need to add "Lippmann, Ethan (VU) Lab" to your groups. You should use the menu on the left side of the screen and click on "Manage My Groups" to request access.
 
-7. Send an email to the [Vanderbilt IT Department](mailto:dts.se.support@Vanderbilt.Edu) asking for access to our lab's shared network drive. Include your VU NetID in this email. 
+7. Send an email to the [Vanderbilt IT Department](mailto:dts.se.support@Vanderbilt.Edu) asking for access to our lab's shared network drive (smb://vu1file.it.vanderbilt.edu/lippmannlab/). Include your VU NetID in this email.
 
 8. Finally, our lab has a [Github](https://github.com/LippmannLab) that we use for code versioning and internal sharing. 
 
