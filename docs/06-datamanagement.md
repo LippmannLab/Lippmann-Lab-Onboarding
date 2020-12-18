@@ -28,12 +28,19 @@ Most members of the lab use [Zotero](https://www.zotero.org/) as their reference
 
 Another free reference manager that some lab members use is [Mendeley](https://www.mendeley.com/download-desktop-new/), although it is much easier to have everyone using the same program when writing papers in groups. 
 
-Furthermore, this [Excel Journal Database](https://www.youtube.com/watch?v=Y40Wy1guAiQ) may also be a good tool for keeping up with what papers you have read during your training. 
+Furthermore, this [Excel Journal Database](https://www.youtube.com/watch?v=Y40Wy1guAiQ) may also be a good tool for keeping up with what papers you have read during your training, although it should not be used as your citation manager. 
 
 ## Communication 
-How to present scientific work
-Journal club templates - how you present a journal club article 
-Advice on creating posters, present virtually - better poster movement
+This section will contain tips on how to present scientific work. 
+
+### Creating an Oral Presentation 
+
+
+#### Journal Club Presentations
+
+
+### Creating a Poster Presentation 
+Better poster movement
 
 ## Computation/Data Analysis
 - software, norms for analysis

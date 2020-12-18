@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  18 DEC 2020 09:48
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  18 DEC 2020 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -818,34 +818,40 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ]
 Chapter 1.
+
+Underfull \hbox (badness 2189) in paragraph at lines 117--119
+\TU/lmr/m/n/10 to our lab’s shared network drive ([]$[][][] [] [] [] [][][][][]
+[][] [] [][] [] [][][][][][][][][][] [] [][][] []
+ []
+
 [9] [10] [11] [12]
 
-Package hyperref Warning: Suppressing link with empty target on input line 171.
-
-
-
 Package hyperref Warning: Suppressing link with empty target on input line 173.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 175.
 
 
 [13] [14]
 Chapter 2.
 [15
 
-] [16
-
-]
+] [16]
 Chapter 3.
 
-Underfull \hbox (badness 1102) in paragraph at lines 222--222
+Underfull \hbox (badness 1102) in paragraph at lines 300--300
 []\TU/lmr/bx/n/14.4 Logging onto Oracle to Access Training
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 242--242
+Underfull \hbox (badness 1215) in paragraph at lines 320--320
 []\TU/lmr/bx/n/14.4 Required Training Modules for All Lab
  []
 
-[17] [18]
+[17
+
+] [18]
 Chapter 4.
 [19
 
@@ -860,42 +866,42 @@ Underfull \vbox (badness 3503) has occurred while \output is active []
 Chapter 6.
 [31
 
-] [32]
+] [32] [33] [34
+
+]
 Chapter 7.
-[33
-
-] [34]
+[35] [36]
 Chapter 8.
-[35
+[37
 
-] [36] [37] [38] [39]
+] [38] [39] [40] [41]
 
-Package hyperref Warning: Suppressing link with empty target on input line 905.
-
-
-[40] [41] [42]
-Chapter 9.
-
-Package hyperref Warning: Suppressing link with empty target on input line 993.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1008
+Package hyperref Warning: Suppressing link with empty target on input line 1016
 .
 
-[43
+[42] [43] [44]
+Chapter 9.
 
-] [44] (./Onboarding-Book.aux)
+Package hyperref Warning: Suppressing link with empty target on input line 1109
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1124
+.
+
+[45
+
+] [46] (./Onboarding-Book.aux)
 Package rerunfilecheck Info: File `Onboarding-Book.out' has not changed.
-(rerunfilecheck)             Checksum: D8B386E04CCE1839B65BE96AEA38E1AE;10258.
+(rerunfilecheck)             Checksum: E482660B16B71B36FE57E99200B04194;10209.
  ) 
 Here is how much of TeX's memory you used:
- 16330 strings out of 479290
- 288897 string characters out of 5875625
- 742595 words of memory out of 5000000
- 35609 multiletter control sequences out of 15000+600000
+ 16342 strings out of 479290
+ 289201 string characters out of 5875625
+ 743283 words of memory out of 5000000
+ 35621 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,6n,118p,1080b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Onboarding-Book.pdf (44 pages).
+Output written on Onboarding-Book.pdf (46 pages).

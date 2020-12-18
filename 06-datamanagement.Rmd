@@ -31,7 +31,7 @@ Another free reference manager that some lab members use is [Mendeley](https://w
 Furthermore, this [Excel Journal Database](https://www.youtube.com/watch?v=Y40Wy1guAiQ) may also be a good tool for keeping up with what papers you have read during your training, although it should not be used as your citation manager. 
 
 ## Communication 
-How to present scientific work
+This section will contain tips on how to present scientific work. 
 
 ### Creating an Oral Presentation 
 

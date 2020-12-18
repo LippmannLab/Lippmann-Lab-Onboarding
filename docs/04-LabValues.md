@@ -1,6 +1,6 @@
 # Lab Values {#values}
 
-## Lab Philosophy
+## Lab Mission Statement
 
 
 ## Code of Conduct
