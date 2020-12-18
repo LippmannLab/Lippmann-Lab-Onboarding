@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.15)  16 DEC 2020 19:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.15)  17 DEC 2020 18:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,22 +868,22 @@ Chapter 7.
 Chapter 8.
 [35
 
-] [36] [37]
+] [36] [37] [38] [39]
 
-Package hyperref Warning: Suppressing link with empty target on input line 879.
+Package hyperref Warning: Suppressing link with empty target on input line 902.
 
 
-[38] [39] (./Onboarding-Book.aux)
+[40] [41] [42] (./Onboarding-Book.aux)
 Package rerunfilecheck Info: File `Onboarding-Book.out' has not changed.
 (rerunfilecheck)             Checksum: 55A1BB1B35F8E29F8A6015F4942723BB;9198.
  ) 
 Here is how much of TeX's memory you used:
- 16327 strings out of 479291
- 288740 string characters out of 5875995
- 740954 words of memory out of 5000000
- 35601 multiletter control sequences out of 15000+600000
+ 16328 strings out of 479291
+ 288989 string characters out of 5875995
+ 741169 words of memory out of 5000000
+ 35602 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,6n,118p,1080b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Onboarding-Book.pdf (39 pages).
+Output written on Onboarding-Book.pdf (42 pages).

@@ -1,7 +1,7 @@
 ---
 title: "Lippmann Lab Onboarding"
 #author: "Kylie Balotin"
-date: "2020-12-16"
+date: "2020-12-17"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

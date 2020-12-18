@@ -12,7 +12,7 @@
 
 5. Our lab also has 3 calendars to schedule general lab events, book specific hoods, and to book time on our microscope. Request access to these calendars: [Lippmann Lab Calendar](https://calendar.google.com/calendar/u/0?cid=bXFkOWE3bjM3MTkxbzluYWVtbWw0NDd2bGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab Microscope](https://calendar.google.com/calendar/u/0?cid=ZjNkMXBkbmFwZzc0NWR2YmVmNXU0bGN1YjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab 118 Small Hood](https://calendar.google.com/calendar/u/0?cid=MGk3NGZpdm5ua2JyZjMyc2duNTE2aGMxOWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
-6. Create an [iLabs](https://vanderbilt.corefacilities.org/landing/2191) account. The first time you log into your account, you will need to add "Lippmann, Ethan (VU) Lab" to your groups. You should use the menu on the left side of the screen and click on "Manage My Groups" to request access. {#ilabs}
+6. Create an [iLabs](https://vanderbilt.corefacilities.org/landing/2191) account. The first time you log into your account, you will need to add "Lippmann, Ethan (VU) Lab" to your groups. You should use the menu on the left side of the screen and click on "Manage My Groups" to request access.
 
 7. Send an email to the [Vanderbilt IT Department](mailto:dts.se.support@Vanderbilt.Edu) asking for access to our lab's shared network drive. Include your VU NetID in this email. 
 
