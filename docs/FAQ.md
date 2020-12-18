@@ -33,6 +33,9 @@ It is up to you to make sure that you are getting the necessary work done in ord
 ## Mental Health in Graduate School
 Mental health is a major issue in graduate school. Many members of the lab use mental health resources available on campus including the [University Counseling Center (UCC)](https://www.vanderbilt.edu/ucc/) and the [Vanderbilt Graduate Life Coach](https://gradschool.vanderbilt.edu/current_students/gradlife.php). Our medical insurances provides free access to [psychiatry services](https://www.vanderbilt.edu/ucc/services/psychiatric-services/) although medication may still cost some money. Outside resources such as [PhD Balance](https://www.phdbalance.com/). Feel free to reach out to other members of the lab if you are having issues or need people to talk to! 
 
+## Advice to Navigating Co-Mentorships 
+
+
 ## Registering for Courses in the YES Portal
 Graduate students register for courses on the [Vanderbilt YES Portal](http://yes.vanderbilt.edu/). You can register for courses using the "Student Registration" tab. All graduate students are required to enroll in 9 credit hours every semester. 
 

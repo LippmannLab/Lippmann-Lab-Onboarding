@@ -76,3 +76,8 @@ czi-resources
 two-factor-authentification
 mentoring-opportunities
 outreach-opportunities
+advice-to-navigating-co-mentorships
+how-to-contribute
+not-comfortable-with-coding
+comfortable-with-github
+interested-in-assisting-the-document-maintenance
