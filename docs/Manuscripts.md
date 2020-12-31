@@ -23,7 +23,9 @@ Your papers are your currency from your time in the lab - peer-reviewed proof th
 
 8. **Any data used to compile a graph of some sort should be provided to Ethan in an Excel spreadsheet.** This ensures that he has a copy of the original numbers after you leave, complying with [RCR practices](#RCR). Many students choose to set a folder for their manuscripts in [Box](http://vanderbilt.box.com/) that contains raw and processed data.
 
-9. **Celebrate when the paper is accepted.** First round for the entire lab is always on Ethan!
+9. ***Once you have submitted a paper, make sure that Ethan has all the raw data in a Box folder in order to comply with RCR standards!***
+
+10. **Celebrate when the paper is accepted.** First round for the entire lab is always on Ethan!
 
 ## Writing Tips and Resources - need to fill in at some point
 

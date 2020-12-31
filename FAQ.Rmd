@@ -34,7 +34,15 @@ It is up to you to make sure that you are getting the necessary work done in ord
 Mental health is a major issue in graduate school. Many members of the lab use mental health resources available on campus including the [University Counseling Center (UCC)](https://www.vanderbilt.edu/ucc/) and the [Vanderbilt Graduate Life Coach](https://gradschool.vanderbilt.edu/current_students/gradlife.php). Our medical insurances provides free access to [psychiatry services](https://www.vanderbilt.edu/ucc/services/psychiatric-services/) although medication may still cost some money. Outside resources such as [PhD Balance](https://www.phdbalance.com/). Feel free to reach out to other members of the lab if you are having issues or need people to talk to! 
 
 ## Advice on Navigating Co-Mentorships 
+- No matter whether Ethan is your primary or secondary adviser, you are welcome to use the Lippmann lab spaces and equipment (some equipment such as the biosafety hoods, microscope, and osmometer needs extra training). You are also invited to Lippmann lab social events. 
 
+- Ideally, your co-advisor will be a faculty member that Ethan already has a working-relationship with (a close collaborator or they’re on a grant together)
+
+- Time spent in the labs of both mentors is rarely split evenly, make sure it is clear to everyone who will serve as your “primary” mentor, why, and the relative time that you will be spending in each lab.
+
+- At the beginning of your co-mentorship make sure to have a meeting where all three of you meet and discuss the general outline of your research direction. While this may be difficult to do during your first semester, make sure that you are actively communicating with Ethan and your other advisor about where your project is at/any research changes. You are responsible for communicating between your advisors and making sure that they are on the same page with the status of your research. 
+
+- Similarly, if you’re feeling overburdened with double lab meetings, journal clubs, etc—talk with Ethan about it! The goal of a co-advising relationship is for you to have the freedom to develop a more interdisciplinary project by pulling on the expertise of Ethan and your co-advisor. While it might require more time-juggling on the front end (learning two lab cultures, attending double lab meetings, doing more background reading to get acquainted), make sure that you’re also not neglecting your research! Communicate, communicate, communicate. It will always help you to be clear with Ethan about your stress level/workload and you can find a solution by being in open conversation about it.
 
 ## Registering for Courses in the YES Portal
 Graduate students register for courses on the [Vanderbilt YES Portal](http://yes.vanderbilt.edu/). You can register for courses using the "Student Registration" tab. All graduate students are required to enroll in 9 credit hours every semester. 
@@ -92,10 +100,24 @@ The [Vanderbilt Institute for Clinical and Translational Research](https://victr
 There are several NIH-funded training grants that can cover up to 2 years of your training. Lippmann lab members have been funded through the T32 Training Grant in Alzheimer's Disease and the T32 Training Grant in Environmental Toxicology. The activities required while funded by the training grants will vary but can include presenting at a seminar, participating in a journal club, or taking certain courses. Typically, Ethan will talk to you about training grant funding opportunities, and applications usually require a CV. 
 
 ## Common Conferences
+While Ethan is always open to suggestions of conferences you would like to present at, here is a list that many lab members have attended in the past:
 
+- American Chemical Engineering Society's Annual Meeting
 
-## Career Resources
+- Biomedical Engineering Society's Annual Meeting
 
+- Society for Neuroscientist's Annual Meeting
+
+- Chan-Zuckerberg Initiative Neurodegeneration Challenge Network Annual Meeting
+
+- Gordon Research Conference: Barriers of the CNS
+
+- Vanderbilt Annual Alzheimer's Disease Research Day 
+
+- Vanderbilt NanoDay
+
+## The Office of Biomedical Research Education and Training's  (BRET) Career Resources
+The BRET office has [career development resources](https://medschool.vanderbilt.edu/career-development/) for both graduate students and postdocs. The [Bistro series](https://medschool.vanderbilt.edu/career-development/aspire-bistro-for-phd-students/) is focused on graduate students, while the [cafe series](https://medschool.vanderbilt.edu/career-development/aspire-cafe-for-postdoctoral-fellows/) is focused on post doctoral fellows. Additionally the BRET office has a [job search series](https://medschool.vanderbilt.edu/career-development/aspire-job-search-series-for-phd-students-and-postdocs/) and a career fair that are open to graduate students and postdocs. 
 
 ## Early Milestones in Each Department
 There's a lot of variability in the department graduation requirements. Here's a short summary of some of the milestones that occur up to the qualifying exam and what is required for each milestone for the departments that are commonly represented in the Lippmann Lab. Graduate school documents for forming your thesis committee, scheduling your qualifying exam, and preparing your dissertation/defense can be found [here](https://gradschool.vanderbilt.edu/academics/forms_timeline.php). Make sure you are aware of your department's specific requirements for each milestone. 
@@ -115,11 +137,11 @@ There's a lot of variability in the department graduation requirements. Here's a
   - **Thesis Committee:** A minimum of 5 people including Ethan, 2 BME faculty (with at least one having a primary appointment in BME), at least one member from VUMC, and an additional member from any department. BME students are expected to meet with their committee at least every 6 months after passing their qualifying exam. 
 
 ### Interdisciplinary Materials Science Program (IMS) {#ims} - ask Lexi to fill in 
-- **Preliminary Exam:**
+- **Preliminary Exam:** This exam will be taken before the end of the third semester at Vanderbilt, ideally after the majority of required coursework is completed. The main purpose of this exam is to confirm that you have the potential to make a successful PhD student and that you have an adequate understanding of the foundations of materials science from all previous courses.  Since our lab is mostly concerned with biomaterials, this exam will be mostly focused on a short presentation of all the research you have accomplished (10-15min) and an “area paper” (4-10p) which will need to be submitted to your committee at least one week before your exam. You will be responsible for forming a preliminary exam committee which consists of five faculty members (including Ethan) that are from at least three different departments. This may be the same committee that you choose to move forward with for your qualifying exam, but it does not have to be. If you fail your first examination, your committee may decide to allow you to sit for a second exam or suggest that you complete the additional research work required to earn a master’s degree. 
 
-- **Qualifying Exam:**
+- **Qualifying Exam:** The IMS qualifying same is similar to quals for other departments. Its main purpose is to determine that your proposed research will be worthy of attaining your PhD. It must be completed within four years of entering Vanderbilt and at least six months before defending. Similar to the Preliminary Exam, there is both a written and oral portion although each are more lengthy. The written proposal should be sent to your committee at least two weeks before your exam and is a formal, detailed justification of your proposed hypothesis future research direction, supported by the work that you have completed so far. You will then give a 30-minute talk to your committee, followed by a period of oral examination. 
 
-  - **Thesis Committee:** 
+  - **Thesis Committee:** The composition of your thesis committee for your qualifying exam and PhD defense may be the same as for your preliminary exam. Your thesis committee should comprise of your 2 thesis advisers and 3 other faculty members. Three faculty must be members of the Graduate Faculty and at least 3 affiliated with the Materials Program. For more detailed information see “Expectations for IMS preliminary and qualifying exams” document that you received during orientation.  
 
 ### Interdisciplinary Graduate Program (IGP) {#igp} - ast Ketaki to fill in 
 - **Qualifying Exam:**
@@ -141,12 +163,23 @@ Vanderbilt uses Duo Security for extra protection when logging onto Vanderbilt w
 ## Mentoring Opportunities 
 There are many opportunities to mentor younger students in the Lippmann lab. 
 
-- High school
+- **High School Students:** Ethan is involved with a partnership with a local high school that brings high school students on campus to learn about (and potentially participate in) research. He will contact you if there is an opportunity to mentor a high school student. Typically, these students will shadow you while you conduct your research and submit an article to the [Vanderbilt Young Scientist Journal](https://www.youngscientistjournal.org/). This is can range for a couple months to a couple years commitment. In addition to research, some students may also ask you questions about college and the application process. Occasionally, other high school students will spend a day shadowing you in lab.
 
-- Undergraduate 
+- **Undergraduate Graduate Students:** There are many opportunities to mentor undergraduate students whether it's Vanderbilt students or visiting summer students. Talk to Ethan if you are interested in mentoring an undergrad or could use help with your projects. 
 
-- Senior students 
+- **Younger Graduate Students:** Senior graduate students are expected to help mentor and train younger graduate students. Typically students sharing common research interests will be paired together, but all senior students can help younger students adjust to graduate school. Younger students should feel free to reach out to more senior students for advice on courses, opportunities available at Vanderbilt, and research advise/feedback. 
 
 ## Outreach Opportunities 
+There are several outreach opportunities at Vanderbilt and in the Nashville community. 
 
+- At Vanderbilt
+  - [Vanderbilt Engineering Ambassador Network](https://anchorlink.vanderbilt.edu/organization/EAN)
+  - [Vanderbilt Biomedical Engineering Graduate Student Association] (https://anchorlink.vanderbilt.edu/organization/bme_gsa)
+  - [Vanderbilt Brain Institute Brain Blast](https://medschool.vanderbilt.edu/brain-institute/new-vbi-homepage-inprogress/outreach/) 
+  - [Vanderbilt Young Scientist Journal Peer Reviewer](https://www.youngscientistjournal.org/)
+
+- Within the Nashville Community
+  - Adventure Science Center's Scientist on Site Program
+  - [Adventure Science Center General Volunteer Program](https://www.adventuresci.org/volunteer)
+  - [Hands on Nashville](https://www.hon.org/?layoutViewMode=tablet)
 

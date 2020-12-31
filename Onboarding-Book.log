@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  18 DEC 2020 11:04
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  31 DEC 2020 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -859,49 +859,62 @@ Chapter 4.
 
 ]
 Chapter 5.
-[23]
-Underfull \vbox (badness 3503) has occurred while \output is active []
+[23] [24] [25] [26] [27] [28] [29] [30] [31] [32
 
-[24] [25] [26] [27] [28] [29] [30]
+]
 Chapter 6.
-[31
-
-] [32] [33] [34
+[33] [34] [35] [36
 
 ]
 Chapter 7.
-[35] [36]
+[37] [38]
 Chapter 8.
-[37
+[39
 
-] [38] [39] [40] [41]
+] [40] [41] [42] [43]
+Underfull \hbox (badness 1776) in paragraph at lines 1058--1058
+[]\TU/lmr/bx/n/14.4 The Office of Biomedical Research Ed-
+ []
 
-Package hyperref Warning: Suppressing link with empty target on input line 1016
+
+Underfull \hbox (badness 3189) in paragraph at lines 1058--1058
+\TU/lmr/bx/n/14.4 ucation and Training’s (BRET) Career
+ []
+
+[44]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1088
 .
 
-[42] [43] [44]
+[45] [46] [47] [48] [49] [50
+
+]
 Chapter 9.
 
-Package hyperref Warning: Suppressing link with empty target on input line 1109
+Package hyperref Warning: Suppressing link with empty target on input line 1213
 .
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 1124
+Package hyperref Warning: Suppressing link with empty target on input line 1228
 .
 
-[45
+[51]
+Overfull \hbox (23.29343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 52 \TU/lmr/m/sl/10 CHAPTER 9.  HOW TO CONTRIBUTE TO THE ONBOARDI
+NG DOCUMENT
+ []
 
-] [46] (./Onboarding-Book.aux)
+[52] (./Onboarding-Book.aux)
 Package rerunfilecheck Info: File `Onboarding-Book.out' has not changed.
-(rerunfilecheck)             Checksum: E482660B16B71B36FE57E99200B04194;10209.
+(rerunfilecheck)             Checksum: 6EB552DBED680F4CB72D12877C154140;10719.
  ) 
 Here is how much of TeX's memory you used:
  16342 strings out of 479290
- 289201 string characters out of 5875625
- 743283 words of memory out of 5000000
+ 289257 string characters out of 5875625
+ 743895 words of memory out of 5000000
  35621 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 94i,6n,118p,1080b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 94i,6n,118p,1203b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Onboarding-Book.pdf (46 pages).
+Output written on Onboarding-Book.pdf (52 pages).

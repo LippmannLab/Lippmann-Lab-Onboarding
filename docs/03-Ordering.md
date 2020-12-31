@@ -12,6 +12,10 @@
 
 - **Many disposable items that we use are available through the [Molecular Cell Biology Resource Core (MCBR)](#core) - if stocked, these items are avaliable immediately and we do not pay shipping costs.** If not purchasing in bulk, always buy from MCBR if possible. They stock many items from Thermo Fisher Scientific (Life Technologies), Sigma Aldrich, Promega, Qiagen, and Bio-Rad that we use frequently. You can also order non-stocked items through the Core that will NOT include a shipping charge, but you will have to wait for them to ship (a useful option if you don't need these items immediately). 
 
+- **One Purchase Order Form must be filled out for each vendor you are ordering from.** You cannot combine multiple vendors on the same purchase order forms. You can split orders from one vendor onto different grants using the same purchase order form.
+
+- **Do your research if you are buying new antibodies.** We typically can find antibody product information using papers related to our research or by searching in [BenchSci](https://www.benchsci.com/). 
+
 ## On Campus Core Facilities
 There are a couple places on campus where reagents and chemicals are stocked and can be purchased for immediate use.
 
@@ -132,12 +136,39 @@ For gas orders, you will need to include our account number 1218 and the quantit
 
 
 ### Non-Catalog Orders - need to talk to Madison to fill in 
-Non-catalog orders refer to vendors that are not on the Aquiire catalog. This includes Peprotech, Genscript, Ted Pella, and Addgene. We typically use "order by quantity" rather than "order by amount."
+Non-catalog orders refer to vendors that are not on the Aquiire catalog. This includes Peprotech, Genscript, Ted Pella, and Addgene. We typically use "order by quantity" rather than "order by amount." An example of an exception when we would use "order by amount" is if we are getting our lab coats cleaned. If you are ordering from a vendor that is not in the Vanderbilt system, you will always need to get a quote for that order. Registration of new vendors can take at least 2 weeks, so if you can, always try to order from a registered vendor. 
 
-1. 
+1. Under the "Request Forms" sections of the Requisition page, select "Non-Catalog Order by Amount."
+
+2. Under "Supplier," search for your vendor.
+
+3. If applicable, provide a part number in the "Item/Part Number" section. Otherwise, just put "N/A." For orders containing multiple items, we will add each item one at a time to our cart. 
+
+4. Under "Item Description," write any information that might be helpful in helping the Purchasing Department place the order with the vendor. For example, if you are ordering a peptide, make sure you include the sequence information in this section. You will also want to place the item name and part number (if applicable) in this section as well. Make sure this information matches your quote and/or the vendor's website. 
+
+5. For the "Category" section, you will usually select "Lab Supplies" or "Lab Equipment." The exception is if you are purchasing software, such as BioRender, which is considered "IT Computer Software." Additionally, if an item is more than $5,000, you must go through the capital equipment process. 
+
+6. For UOM name, you will usually select EA (each), and add quantity information in the item description section. For "Amount," you will add the cost of each item based on your quote or the vendor website. 
+
+7. Add your item to your cart. 
+
+8. Repeat steps 2-6 for every item in your order. 
+
+9. You can either save your requisition to work on late by clicking the "Done" button. Otherwise, you can continue to work on the requisition by clicking on the cart button at the top right of the screen. 
+
+10. Fill out the requisition form the same way you would fill out a catalog order requisition form. Make sure you include the quote number in your description name (if applicable). Additionally, make sure you include the following list of attachments:
+    - To Buyer: Attach Quote (if applicable)
+    
+    - To Supplier: Attach Quote (if applicable)
+    
+    - To Approver: Attach Quote (if applicable)
+    
+    - To Approver: Attach Ethan's approval email 
+    
+11. Submit your order by reassigning it or submitting it yourself.
 
 #### Addgene Orders - have Madison check
-In order to order products from [Addgene](https://help.addgene.org/hc/en-us/articles/205436319?_ga=2.100504030.1196238464.1608166799-1984471690.1608166799&_gac=1.53248474.1608166799.CjwKCAiA_eb-BRB2EiwAGBnXXjNbFJq4bB11oAb4wVAgpFjnxn-sVv-PdYz6QgEBRQ9U0g-_hKce1BoCTW0QAvD_BwE), you need to greate an account. Once you receive your purchase order (PO) from Purchasing Services, you can add your items to your online cart and choose "Pay by Purchase Order" when you are checking out. If you do not enter your order in Addgene yourself, your order will not be placed and your items will never arrive. 
+In order to order products from [Addgene](https://help.addgene.org/hc/en-us/articles/205436319?_ga=2.100504030.1196238464.1608166799-1984471690.1608166799&_gac=1.53248474.1608166799.CjwKCAiA_eb-BRB2EiwAGBnXXjNbFJq4bB11oAb4wVAgpFjnxn-sVv-PdYz6QgEBRQ9U0g-_hKce1BoCTW0QAvD_BwE), you need to greate an account. Once you receive your purchase order (PO) from Purchasing Services, you can add your items to your online cart and choose "Pay by Purchase Order" when you are checking out. If you do not enter your order in Addgene yourself, your order will not be placed, and your items will never arrive. 
 
 ### Amazon and Captial Equipment Orders
 Send your Amazon order purchase request form and Ethan's approval email to the [Chemical Engineering Department](mailto:chbeorders@vanderbilt.edu). The subject of the email should be "Your Last Name - Lippmann - Vendor." Make sure your justification includes this statement in your purchase request form: "These items could not be found with these specifications or this price from any other vendor." Capital equipment is when at least one component is greater than $5,000. If you are unsure, talk to [Purchasing Services](https://finance.vanderbilt.edu/purchasingandpaymentservices/purchasingservices/). 

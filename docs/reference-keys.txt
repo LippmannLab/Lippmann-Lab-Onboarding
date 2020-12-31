@@ -76,7 +76,7 @@ graduate-leadership-institute-gli-grants
 vanderbilt-institute-for-clinical-and-translational-research-victr-vouchers
 training-grants
 common-conferences
-career-resources
+the-office-of-biomedical-research-education-and-trainings-bret-career-resources
 early-milestones-in-each-department
 chbe
 bme
@@ -88,7 +88,7 @@ duo
 onetab
 mentoring-opportunities
 outreach-opportunities
-how-to-contribute
+contribute
 not-comfortable-with-coding
 comfortable-with-github
 interested-in-assisting-the-document-maintenance
