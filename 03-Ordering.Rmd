@@ -23,7 +23,7 @@ There are a couple places on campus where reagents and chemicals are stocked and
 Chemicals can be purchased for immediate use at the Chemistry Stock Room (located in the Chemistry building of the Stevenson Center Complex) including 200 proof ethanol, bleach, and acetone. This storeroom also has many other useful items such as NMR tubes, beakers/flasks, gloves, lab notebooks, lab coats, safety glasses/goggles, and tubing. Items can be ordered using the [iLab Chemistry Storeroom webpage](https://vanderbilt.corefacilities.org/sc/4253/vanderbilt-chemical-storeroom/?tab=requests) for pick up. Make sure you have the proper secondary container if transferring chemicals like acetone from the storeroom to the lab. Ethanol and bleach do not need secondary containers. 
 
 ### Molecular Cell Biology Resource Core (MCBR, aka "The Core") {#core}
-Many disposable items that we use are available through MCBR for immediate use including PBS, UltraPure Water, Western Blot secondary antibodies, DMEM/F12, Neurobasal Medium, B27 supplement, N2 supplement, etc. This is the best option if you need a reagent immediately or are not buying in bulk. MCBR is located in rooms 902 and 904 of Light Hall. In addition to stocking supplies, MCBR also provides DNA/RNA oligo and siRNA ordering services, is a instrument facility (rtPCR systems), and a cell culture media preparation service. Purchasing items will be conducted through your iLabs account while you are in the Core. You can also also check whether items are in stock or request for them to be purchased using the [iLab VUMC MCBR Core (Molecular Cell Biology Resource webpage)](https://vanderbilt.corefacilities.org/sc/4722/vumc-mcbr-core-molecular-cell-biology-resource/?tab=services).
+Many disposable items that we use are available through MCBR for immediate use including PBS, UltraPure Water, Western Blot secondary antibodies, DMEM/F12, Neurobasal Medium, B27 supplement, N2 supplement, etc. This is the best option if you need a reagent immediately or are not buying in bulk. MCBR is located in rooms 902 and 904 of Light Hall. In addition to stocking supplies, MCBR also provides DNA/RNA oligo and siRNA ordering services, is an instrument facility (rtPCR systems), and a cell culture media preparation service. Purchasing items will be conducted through your iLabs account while you are in the Core. You can also also check whether items are in stock or request for them to be purchased using the [iLab VUMC MCBR Core (Molecular Cell Biology Resource webpage)](https://vanderbilt.corefacilities.org/sc/4722/vumc-mcbr-core-molecular-cell-biology-resource/?tab=services).
 
 ## Ordering Training
 
@@ -170,7 +170,7 @@ Non-catalog orders refer to vendors that are not on the Aquiire catalog. This in
 #### Addgene Orders - have Madison check
 In order to order products from [Addgene](https://help.addgene.org/hc/en-us/articles/205436319?_ga=2.100504030.1196238464.1608166799-1984471690.1608166799&_gac=1.53248474.1608166799.CjwKCAiA_eb-BRB2EiwAGBnXXjNbFJq4bB11oAb4wVAgpFjnxn-sVv-PdYz6QgEBRQ9U0g-_hKce1BoCTW0QAvD_BwE), you need to greate an account. Once you receive your purchase order (PO) from Purchasing Services, you can add your items to your online cart and choose "Pay by Purchase Order" when you are checking out. If you do not enter your order in Addgene yourself, your order will not be placed, and your items will never arrive. 
 
-### Amazon and Captial Equipment Orders
+### Amazon and Capital Equipment Orders
 Send your Amazon order purchase request form and Ethan's approval email to the [Chemical Engineering Department](mailto:chbeorders@vanderbilt.edu). The subject of the email should be "Your Last Name - Lippmann - Vendor." Make sure your justification includes this statement in your purchase request form: "These items could not be found with these specifications or this price from any other vendor." Capital equipment is when at least one component is greater than $5,000. If you are unsure, talk to [Purchasing Services](https://finance.vanderbilt.edu/purchasingandpaymentservices/purchasingservices/). 
 
 ### Information to Include When Reassigning to a Procurement Requester {#reassign} 
@@ -205,13 +205,11 @@ For some vendors, Purchasing Services will send you an email to check that you w
 ## Commonly Used Grants
 These are commonly used grants to purchase lab supplies. Ethan may direct you towards more project specific grants depending on your work. 
 
-- Start Up: FF_220114.10
+- Discetionary accounts: FF_220114.10 and FF_220114.30
   - Generally don't use unless buying capital equipment or Ethan instructs you to use it.
   
 - CZI: 601413.1
+  - For activities that are specific to BBB transporter biology or don't "fit" on other grants (pseudo-discetionary money).
 
 - R01: SFP_300234.1
-
-- R21: 600799.1
-
-- NSF (uF, microformulator): GC_404654.1
+  - For most cell culture supplies, disposables, and general wet lab reagents. 
