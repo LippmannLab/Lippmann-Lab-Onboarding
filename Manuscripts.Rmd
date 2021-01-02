@@ -3,17 +3,17 @@ Your papers are your currency from your time in the lab - peer-reviewed proof th
 
 ## The Process
 
-1. **Outline the paper.** In general, Ethan prefers that you meet with him to discuss an outline of the paper, most notably the general message of the introduction and how the data/figures will support the claims made, prior to initiating the writing process. 
+1. **Outline the paper.** In general, I prefer that you meet with me to discuss an outline of the paper, most notably the general message of the introduction and how the data/figures will support the claims made, prior to initiating the writing process. It is common to think about your existing data, figure sets, and missing pieces before starting the writing process.
 
-2. **Pick a target journal.** For obvious reason, not everything gets submitted to Nature or Science. Have a good idea for what you think the significance of your work is, whether it belongs in a broad journal versus a specialty journal, and how quickly you want to get it published. 
+2. **Pick a target journal.** For obvious reasons, not everything gets submitted to Nature or Science. Have a good idea for what you think the significance of your work is, whether it belongs in a broad journal versus a specialty journal, and how quickly you want to get it published. 
 
 3. **Read the journal's author guidelines.** Most journals have their own specific figure guidelines and word limits. Unless you want to tear your hair out reformatting, check the journal requirements first. 
 
-4. **You will write the first draft - Ethan will be heavily involved in your first paper-writing attempt but preferably less so therafter.** Some re-writes by Ethan is inevitable, but he will try to be constructive if he doesn't agree with the language you've used or the conclusions you've drawn. 
+4. **You will write the first draft - Ethan will be heavily involved in your first paper-writing attempt but preferably less so therafter.** Some re-writing by me is inevitable, but I try to be constructive if I don't agree with the language you've used or the conclusions you've drawn. The first draft typically gets marked up a lot, and subsequent edits are much faster. 
 
-5. **Track changes as best you can between versions.** If you don't agree with a change Ethan has made, make a comment in the document so he doesn't think you're just ignoring his opinion. Save each version as a different file in case you need to go back to something written in an earlier version. 
+5. **Track changes as best you can between versions.** If you don't agree with a change I have made, make a comment in the document so I don't think you're just ignoring my opinion. Save each version as a different file in case you need to go back to something written in an earlier version. 
 
-6. **Assemble your figures in Photoshop or Illustrator.** Most journals require a certain resolution and may have their own requirements on fonts and sizes. Ethan typically does all his figure preparations, including labels, in PowerPoint and then assembles these parts in Photoshop at the desired figure resolution (typically 300-400 dpi). After assembly, images can be compressed by flattening the layers into one final plane. Most journals also require images to be below a certain size (usually 10MB). 
+6. **Assemble your figures in Photoshop or Illustrator.** Most journals require a certain resolution and may have their own requirements on fonts and sizes. I typically do all of my figure preparations, including labels, in PowerPoint and then assemble these parts in Photoshop at the desired figure resolution (typically 300-400 dpi). After assembly, images can be compressed by flattening the layers into one final plane. Most journals also require images to be below a certain size (usually 10MB). 
     
     - The lab has a [Biorender](https://biorender.com/) license, so you can ask Ethan to get access to the program in order to make figures.
     
@@ -25,7 +25,7 @@ Your papers are your currency from your time in the lab - peer-reviewed proof th
 
 9. ***Once you have submitted a paper, make sure that Ethan has all the raw data in a Box folder in order to comply with RCR standards!***
 
-10. **Celebrate when the paper is accepted.** First round for the entire lab is always on Ethan!
+10. **Celebrate when the paper is accepted.** First round for the entire lab is always on Ethan! It is important to revel in the success of your colleagues. 
 
 ## Writing Tips and Resources - need to fill in at some point
 
