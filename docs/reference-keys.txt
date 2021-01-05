@@ -40,7 +40,7 @@ al-gas-orders---have-madison-check
 idt-orders---need-to-talk-to-everett-andor-madison-to-fill-in
 non-catalog-orders---need-to-talk-to-madison-to-fill-in
 addgene-orders---have-madison-check
-amazon-and-captial-equipment-orders
+amazon-and-capital-equipment-orders
 reassign
 information-to-include-when-asking-a-lab-member-to-order-your-supplies
 approving-orders
@@ -62,7 +62,7 @@ creating-a-poster-presentation
 computationdata-analysis
 manuscript-preparation
 the-process
-writing-tips-and-resources---need-to-fill-in-at-some-point
+writing-tips-and-resources
 frequently-asked-questions
 scheduling-vacations
 mental-health-in-graduate-school
@@ -81,7 +81,7 @@ early-milestones-in-each-department
 chbe
 bme
 interdisciplinary-materials-science-program-ims-ims---ask-lexi-to-fill-in
-interdisciplinary-graduate-program-igp-igp---ast-ketaki-to-fill-in
+interdisciplinary-graduate-program-igp-and-quantitative-and-chemical-biology-qcb-igp---ask-ketaki-to-fill-in
 advice-on-scheduling-committee-meetings
 czi-resources
 duo
