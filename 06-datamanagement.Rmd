@@ -37,10 +37,14 @@ This section will contain tips on how to present scientific work.
 
 
 #### Journal Club Presentations
+The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club.
 
+- **Picking an article to present:** You should choose a paper that has been published relatively recently. Ethan will typically assist younger students before their first presentation. 
+
+- **P
 
 ### Creating a Poster Presentation 
-Better poster movement
+[Better poster movement](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
 
 ## Computation/Data Analysis
 - software, norms for analysis
