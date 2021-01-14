@@ -31,10 +31,12 @@ Another free reference manager that some lab members use is [Mendeley](https://w
 Furthermore, this [Excel Journal Database](https://www.youtube.com/watch?v=Y40Wy1guAiQ) may also be a good tool for keeping up with what papers you have read during your training, although it should not be used as your citation manager. 
 
 ## Communication 
-This section will contain tips on how to present scientific work. 
+This section will contain tips on how to present scientific work. An entire chapter is dedicated to writing manuscripts. 
 
 ### Creating an Oral Presentation 
+All graduate students and postdocs will present a research update once a semester at the lab group meeting. Additionally, lab members may have the opportunity to speak at department retreats, seminars, and conferences. 
 
+- 
 
 #### Journal Club Presentations
 The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club.
@@ -44,6 +46,7 @@ The lab rotates who presents an article for our lab's journal club, which is usu
 - **P
 
 ### Creating a Poster Presentation 
+
 [Better poster movement](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
 
 ## Computation/Data Analysis
