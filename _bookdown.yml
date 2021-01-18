@@ -1,6 +1,6 @@
-book_filename: "Onboarding-Book"
+book_filename: "Lippmann-Lab-Onboarding"
 chapter_name: "Chapter "
-repo: https://github.com/kyliebalotin/Onboarding-Book
+repo: https://github.com/LippmannLab/Lippmann-Lab-Onboarding
 output_dir: docs
 rmd_files: ["index.Rmd", "01-General.Rmd", "04-LabValues.Rmd", "02-Training.Rmd", "05-meetings.Rmd", "03-Ordering.Rmd", "06-datamanagement.Rmd", "Manuscripts.Rmd", "FAQ.Rmd", "Contributing.Rmd"]
 clean: [packages.bib, bookdown.bbl]

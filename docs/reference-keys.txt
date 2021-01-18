@@ -81,8 +81,8 @@ the-office-of-biomedical-research-education-and-trainings-bret-career-resources
 early-milestones-in-each-department
 chbe
 bme
-interdisciplinary-materials-science-program-ims-ims---ask-lexi-to-fill-in
-interdisciplinary-graduate-program-igp-and-quantitative-and-chemical-biology-qcb-igp---ask-ketaki-to-fill-in
+ims
+igp
 advice-on-scheduling-committee-meetings
 czi-resources
 duo
