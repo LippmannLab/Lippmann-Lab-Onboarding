@@ -36,11 +36,12 @@ procurement-requester
 how-to-place-orders
 prior-to-creating-a-requisition-in-oracle
 catalog-orders
-al-gas-orders---have-madison-check
-idt-orders---need-to-talk-to-everett-andor-madison-to-fill-in
-non-catalog-orders---need-to-talk-to-madison-to-fill-in
-addgene-orders---have-madison-check
+al-gas-orders
+idt-orders---need-to-talk-to-everett
+noncatalog
+addgene
 amazon-and-capital-equipment-orders
+new-vendors-to-vanderbilt
 reassign
 information-to-include-when-asking-a-lab-member-to-order-your-supplies
 approving-orders

@@ -38,6 +38,8 @@ All graduate students and postdocs will present a research update once a semeste
 
 - 
 
+- Practice your oral presentation with the lab! If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about avaliability, and senior students would be happy to watch a practice presentation. 
+
 #### Journal Club Presentations
 The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club.
 
@@ -47,7 +49,13 @@ The lab rotates who presents an article for our lab's journal club, which is usu
 
 ### Creating a Poster Presentation 
 
-[Better poster movement](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
+- Posters should feature 
+
+- Poster templates can be found [here](https://drive.google.com/drive/folders/1V1ykFkQy5sY_4hgSlZhh6y-axiy3mreH?usp=sharing). You can download these templates and edit it for your own posters. 
+
+- You can refer to the [Better poster movement](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) for additional tips on creating a poster presentation. 
+
+- Senior students would be happy to look over posters and provide feedback. 
 
 ## Computation/Data Analysis
 - software, norms for analysis
