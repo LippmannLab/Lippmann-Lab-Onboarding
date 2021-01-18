@@ -12,9 +12,11 @@
 
 - **Many disposable items that we use are available through the [Molecular Cell Biology Resource Core (MCBR)](#core) - if stocked, these items are avaliable immediately and we do not pay shipping costs.** If not purchasing in bulk, always buy from MCBR if possible. They stock many items from Thermo Fisher Scientific (Life Technologies), Sigma Aldrich, Promega, Qiagen, and Bio-Rad that we use frequently. You can also order non-stocked items through the Core that will NOT include a shipping charge, but you will have to wait for them to ship (a useful option if you don't need these items immediately). 
 
-- **One Purchase Order Form must be filled out for each vendor you are ordering from.** You cannot combine multiple vendors on the same purchase order forms. You can split orders from one vendor onto different grants using the same purchase order form.
+- **One Purchase Order Form and one requisition must be filled out for each vendor you are ordering from.** You cannot combine multiple vendors on the same purchase order forms. You can split orders from one vendor onto different grants using the same purchase order form.
 
-- **Do your research if you are buying new antibodies.** We typically can find antibody product information using papers related to our research or by searching in [BenchSci](https://www.benchsci.com/). 
+- **Do your research if you are buying new antibodies.** We typically can find antibody product information using papers related to our research or by searching in [BenchSci](https://www.benchsci.com/).
+
+- **[Here](https://www.vanderbilt.edu/skyvu/procurement-requesters.php) is a helpful website for ordering things through Vanderbilt.**
 
 ## On Campus Core Facilities
 There are a couple places on campus where reagents and chemicals are stocked and can be purchased for immediate use.
@@ -64,6 +66,7 @@ Commonly purchased items are listed in [this spreadsheet](https://docs.google.co
     - General lab items can have a justification such as "[Item] will be used for general lab procedures/cell culture for [grant name]."
       - Amazon orders must also include this statement : "These items could not be found with these specifications or this price from any other vendor."
     - Save a copy of this file for your records. The recommended naming format is "Lippmann lab purchase request form - YearMonthDay - Vendor.xlsx." Make sure to save your quotes too for future reference. 
+    - You can also check the Aquiire catalog for the prices of your items, as these prices are often lower than on the normal vendor websites.
     
     - One purchase request form should be filled out for each vendor you are purchasing from. 
 

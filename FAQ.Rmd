@@ -174,7 +174,7 @@ There are several outreach opportunities at Vanderbilt and in the Nashville comm
 
 - At Vanderbilt
   - [Vanderbilt Engineering Ambassador Network](https://anchorlink.vanderbilt.edu/organization/EAN)
-  - [Vanderbilt Biomedical Engineering Graduate Student Association] (https://anchorlink.vanderbilt.edu/organization/bme_gsa)
+  - [Vanderbilt Biomedical Engineering Graduate Student Association](https://anchorlink.vanderbilt.edu/organization/bme_gsa)
   - [Vanderbilt Brain Institute Brain Blast](https://medschool.vanderbilt.edu/brain-institute/new-vbi-homepage-inprogress/outreach/) 
   - [Vanderbilt Young Scientist Journal Peer Reviewer](https://www.youngscientistjournal.org/)
 

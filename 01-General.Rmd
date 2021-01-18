@@ -54,7 +54,7 @@ All lab members are expected to apply for external funding. For graduate student
 ## Lab Upkeep
 Labs are inevitably messy and disorganized, but there are certain steps that need to be taken to ensure safety is maintained and reagents aren't wasted. 
 
-- **Label the details on everything you make.** What if you pH a buffer to 7.4, but it should have been 8.4? Will you remember these details if your experiment doesn't work and the bottle wasn't labeled? *Also know the shelf life of the reagents you prepare. Expired reagents can cause similar headaches. It is up to you to know how long a particular solution will be active before needing to prepare a new one!*
+- **Label the details on everything you make.** What if you pH a buffer to 7.4, but it should have been 8.4? Will you remember these details if your experiment doesn't work and the bottle wasn't labeled? *Also know the shelf life of the reagents you prepare. Expired reagents can cause similar headaches. It is up to you to know how long a particular solution will be active before needing to prepare a new one!* Additionally, please make sure that you put your initials on your reagents when you label them so that other lab members know who to contact if they have questions. 
 
 - **When a product arrives, label it with the date it was received and then opened.** See above. 
 

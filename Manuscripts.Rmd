@@ -27,6 +27,10 @@ Your papers are your currency from your time in the lab - peer-reviewed proof th
 
 10. **Celebrate when the paper is accepted.** First round for the entire lab is always on Ethan! It is important to revel in the success of your colleagues. 
 
-## Writing Tips and Resources 
+## Writing Resources 
 
 - The university has a few writing accountability programs including [WAG](https://www.vanderbilt.edu/healthydores/writers-accountability-group-wag-workshop/).
+
+- The university also provides a [writing studio](https://www.vanderbilt.edu/writing/) where you can get feedback on your manuscripts. The BRET office lists additional [resources](https://medschool.vanderbilt.edu/postdoc/vanderbilt-resources/scientific-writing/) that are available for improving scientific writing. 
+
+- 

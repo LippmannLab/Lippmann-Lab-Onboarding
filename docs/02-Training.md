@@ -11,11 +11,11 @@ Everyone is required to take several training modules through [Oracle](https://s
 
 ## Required Training Modules for All Lab Members
 
-- Biosafety 101 - renewed annually
+- Biosafety 101 - annual retraining required
 
-- Working Safely with Human Derived Specimens
+- Working Safely with Human Derived Specimens - annual retraining required
 
-- Principles and Practices of Biosafety
+- Biosafety Principles & Bloodborne Pathogens Control Topics
   - The course schedule can be found [here](https://www.vumc.org/safety/training/biosafety-principles-schedule)
   - To sign up for a class, send your Biosafety 101 completion screenshot to [VUMC Biosafety](mailto:biosafety@vumc.org). Subject your email with "Biosafety training request," and also include information about which date you would like to sign up for. 
 
@@ -23,7 +23,9 @@ Everyone is required to take several training modules through [Oracle](https://s
 
 - Chemical Waste - renewed annually 
 
-- Regulated Medical Waste Shipping Training for Lab Researchers USDOT - renewed every 3-4 years 
+- Regulated Medical Waste Shipping Training for Lab Researchers USDOT - renewed every 3-4 years and signed certificate must be kept in lab
+
+- Biosafety Orientation Checklist & Record - must be filled out by every new lab member and copy kept in lab
 
 ## Required Training for Lab Members Conducting Animal Studies
 If you are working with animals, you should also sign up for the following training module:
