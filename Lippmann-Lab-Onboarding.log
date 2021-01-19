@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  18 JAN 2021 13:01
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  19 JAN 2021 10:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,12 +895,7 @@ Overfull \hbox (191.93903pt too wide) has occurred while \output is active
 S (BRET) CAREER RESOURCES \TU/lmr/m/n/10 51
  []
 
-[51] [52]
-Underfull \hbox (badness 3635) in paragraph at lines 1191--1191
-\TU/lmr/bx/n/12 Quantitative and Chemical Biology (QCB) :
- []
-
-[53]
+[51] [52] [53]
 Underfull \vbox (badness 1199) has occurred while \output is active []
 
 [54] [55] [56]
@@ -929,7 +924,7 @@ Package rerunfilecheck Info: File `Lippmann-Lab-Onboarding.out' has not changed
 Here is how much of TeX's memory you used:
  16343 strings out of 479290
  289135 string characters out of 5875625
- 743619 words of memory out of 5000000
+ 743618 words of memory out of 5000000
  35622 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
