@@ -6,7 +6,7 @@ If you are not comfortable with coding or GitHub, you can create an "Issue" in t
 
 1. Create a [GitHub account](https://github.com/). 
 
-2. Navigate to the [Lippmann Lab Onboarding Repository](). 
+2. Navigate to the [Lippmann Lab Onboarding Repository](https://github.com/LippmannLab/Lippmann-Lab-Onboarding). 
 
 3. Choose the "Issues" tab in the repository and create a new issue. 
 
@@ -15,7 +15,7 @@ If you are not comfortable with coding or GitHub, you can create an "Issue" in t
 ## Comfortable with GitHub
 If you are comfortable with using GitHub and the LaTEX/markdown language, you can suggest edits directly to the GitHub Repository. 
 
-1. Navigate to the [Lippmann Lab Onboarding Repository](). 
+1. Navigate to the [Lippmann Lab Onboarding Repository](https://github.com/LippmannLab/Lippmann-Lab-Onboarding). 
 
 2. Select the specific chapter(s) that you want to edit. You should select the .Rmd file rather than the .html file.  
 

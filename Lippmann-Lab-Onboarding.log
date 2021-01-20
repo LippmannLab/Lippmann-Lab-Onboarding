@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  19 JAN 2021 10:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  20 JAN 2021 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,10 +826,6 @@ Underfull \hbox (badness 2189) in paragraph at lines 117--119
 
 [9] [10] [11] [12]
 
-Package hyperref Warning: Suppressing link with empty target on input line 173.
-
-
-
 Package hyperref Warning: Suppressing link with empty target on input line 175.
 
 
@@ -875,18 +871,18 @@ Chapter 7.
 ]
 Chapter 8.
 [45] [46] [47] [48] [49]
-Underfull \hbox (badness 1776) in paragraph at lines 1133--1133
+Underfull \hbox (badness 1776) in paragraph at lines 1145--1145
 []\TU/lmr/bx/n/14.4 The Office of Biomedical Research Ed-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1133--1133
+Underfull \hbox (badness 3189) in paragraph at lines 1145--1145
 \TU/lmr/bx/n/14.4 ucation and Training’s (BRET) Career
  []
 
 [50]
 
-Package hyperref Warning: Suppressing link with empty target on input line 1163
+Package hyperref Warning: Suppressing link with empty target on input line 1175
 .
 
 
@@ -900,14 +896,6 @@ Underfull \vbox (badness 1199) has occurred while \output is active []
 
 [54] [55] [56]
 Chapter 9.
-
-Package hyperref Warning: Suppressing link with empty target on input line 1288
-.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1303
-.
-
 [57
 
 ]
@@ -923,8 +911,8 @@ Package rerunfilecheck Info: File `Lippmann-Lab-Onboarding.out' has not changed
  ) 
 Here is how much of TeX's memory you used:
  16343 strings out of 479290
- 289135 string characters out of 5875625
- 743618 words of memory out of 5000000
+ 289038 string characters out of 5875625
+ 743652 words of memory out of 5000000
  35622 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
