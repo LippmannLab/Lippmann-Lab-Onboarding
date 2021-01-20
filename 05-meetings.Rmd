@@ -2,9 +2,9 @@
 At the beginning of each semester, I will send out a email with the meeting schedules and locations. I will take into account graduate students' course schedules when assigning the meeting times (if applicable). 
 
 ## Group Meeting Research Presentations
-Presentations to your lab mates are often the only practice you will get before having to give a presentation at a seminar or conference. Therefore, I expect these presentations to be taken seriously and reasonably polished. There is no fixed length for a group meeting presentation, but it should have a clear introduction and coverage of the research significance, clear data presentation, and your thoughts on future directions for the work. *Imagine that you are presenting on a manuscript that you are writing: the important parts are the introduction, the methods, the results and data presentation, and your conclusions from the data.* Remember that even if you are presenting similar data from your last presentation, the group may have new members or outside visitors, so it is your job to make sure they understand what you are talking about. This repetition is also incredibly helpful to prepare for presentations in front of strangers, as being on "autopilot" for the first few minutes of a talk can be useful if you are nervous.  
+Presentations to your lab mates are often the only practice you will get before having to give a presentation at a seminar or conference. Therefore, I expect these presentations to be taken seriously and reasonably polished. There is no fixed length for a group meeting presentation, but it should have a clear introduction and coverage of the research significance, clear data presentation, and your thoughts on future directions for the work. *Imagine that you are presenting on a manuscript that you are writing: the important parts are the introduction, the methods, the results and data presentation, and your conclusions from the data.* Remember that even if you are presenting similar data from your last presentation, the group may have new members or outside visitors, so it is your job to make sure they understand what you are talking about. This repetition is also incredibly helpful to prepare for presentations in front of strangers, as being on "autopilot" for the first few minutes of a talk can be useful if you are nervous. Tips on creating oral presenataions can be found [here](#oralpres)
 
-## Journal Club
+## [Journal Club](#journalclub)
 Every other week, the lab holds a journal club. These meetings consist of presentations on a recent article from the literature that is relevant to our research. When you are in charge of journal club, it is your responsibility to:
 
 1. Choose a manuscript up to a week before the meeting and send it to your lab mates to read and  
@@ -19,11 +19,21 @@ Occasionally, other group meetings will be scheduled on the off-weeks of Journal
 ## Individual/Subgroup
 Every other week, lab members will either meet individually or in subgroups based on overlapping research interests. You should always be prepared with the presentation described in the next session and talking points you want to cover, but you shouldn't be afraid to tell me that you couldn't get everything done that you wanted to accomplish or that your experiments failed. Your preparedness for our meetings will often be the primary determinant of how long they last.   
 
-### What to Prepare Before Your Individual/Subgroup Meeting
-Everyone is expected to use the template of "What I did last time, what I did this current period, and what I plan to do over the next 2 weeks." Data are expected to be worked up and legible to help ensure that progress is being made towards publications, grants, and graduations. Younger students can ask more senior students for examples if unsure what to prepare for individual/subgroup meetings. Showing up unprepared for a subgroup meeting is incredibly unproductive and will result in extreme annoyance. 
+### What to Prepare Before Your Individual/Subgroup Meeting {#subgroup}
+Everyone is expected to use the template of:
+
+- What we talked about in the last meeting
+
+- What you said you were going to work on
+
+- What you actually did
+
+- What you're planning to do over the next 2 weeks. 
+
+Data are expected to be worked up and legible to help ensure that progress is being made towards publications, grants, and graduations. Younger students can ask more senior students for examples if unsure what to prepare for individual/subgroup meetings. Showing up unprepared for a subgroup meeting is incredibly unproductive and will result in extreme annoyance. *Meeting presentations should be stored in [box](#vanderbiltbox) so that we can refer back to them as needed.*
 
 ## Office hours
 Once a week, I keep an open "office hour" when anyone can stop by my office to talk about data, career plans, personal concerns, or any other topic. I am also easily accessible on Slack and by text message.
 
-## Practice Presentations
+## Practice Presentations {#practice}
 Oral presentations is an essential part of scientific training. If you have any upcoming oral presentations (graduation requirement or general presentation), you can email or Slack message the lab to try to set a time to practice your presentation. Additionally, senior members are happy to look over documents, presentation slides, or posters and provide feedback. 

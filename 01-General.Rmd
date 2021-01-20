@@ -8,7 +8,7 @@
 
 3. Request to be added to our lab's listserv by emailing its current handler, [Alex Sorets](mailto:alexander.g.sorets@vanderbilt.edu). This is generally used for longer, lab-wide announcements. 
 
-4. Email our current building manager, [Ross Denham](ross.denham@vanderbilt.edu), for access to Olin Hall 004A, 117, 118, 119, and 213A, and for afer-hours access to the building. Have Ethan CC'ed on the email so he send his approval to your email. 
+4. Email our current building manager, [Ross Denham](mailto:ross.denham@vanderbilt.edu), for access to Olin Hall 004A, 117, 118, 119, and 213A, and for afer-hours access to the building. Have Ethan CC'ed on the email so he send his approval to your email. 
 
 5. Our lab also has 3 calendars to schedule general lab events, book specific hoods, and to book time on our microscope. Request access to these calendars: [Lippmann Lab Calendar](https://calendar.google.com/calendar/u/0?cid=bXFkOWE3bjM3MTkxbzluYWVtbWw0NDd2bGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab Microscope](https://calendar.google.com/calendar/u/0?cid=ZjNkMXBkbmFwZzc0NWR2YmVmNXU0bGN1YjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab 118 Small Hood](https://calendar.google.com/calendar/u/0?cid=MGk3NGZpdm5ua2JyZjMyc2duNTE2aGMxOWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
@@ -58,7 +58,7 @@ Labs are inevitably messy and disorganized, but there are certain steps that nee
 
 - **When a product arrives, label it with the date it was received and then opened.** See above. 
 
-- **When the product arrives, make sure it's stored properly.** [Fridges](), [-80 Freezer](https://docs.google.com/spreadsheets/d/1ZrQVxXwKeqDFtX_aHHl4AUQASXxuAAL4-LCeeVI4ZxE/edit?usp=sharing), [-20 Freezers](https://docs.google.com/spreadsheets/d/1bH7JDGURGhdiMtvVTe1rEuFbch9wmwwFYO38IKKVyBw/edit?usp=sharing), flammables cabinet, acid/base cabinet, etc.
+- **When the product arrives, make sure it's stored properly.** [Fridges](https://docs.google.com/spreadsheets/d/1t9L23HuwRWHOCMfKu_rz-U7EgKH5gI7dMqieAY7dIXQ/edit?usp=sharing), [-80 Freezer](https://docs.google.com/spreadsheets/d/1ZrQVxXwKeqDFtX_aHHl4AUQASXxuAAL4-LCeeVI4ZxE/edit?usp=sharing), [-20 Freezers](https://docs.google.com/spreadsheets/d/1bH7JDGURGhdiMtvVTe1rEuFbch9wmwwFYO38IKKVyBw/edit?usp=sharing), flammables cabinet, acid/base cabinet, etc.
 
 - **If you buy a new reagent, add it to our lab [Chemical Inventory](https://docs.google.com/spreadsheets/d/1sGEV2wA1jmqhkC78ZvBATzLQRgwiy3oQyAK6NWkWCLE/edit?usp=sharing). Print out its MSDS form and add it to the in-lab binder. Last, add the compound to our [Vanderbilt Chemtracker Inventory]().** 
 

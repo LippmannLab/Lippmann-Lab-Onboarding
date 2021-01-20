@@ -14,8 +14,8 @@ If you want to access data saved in these folders off-campus, you will need to s
 ### Google Drive 
 The [lab Google Drive folder](https://drive.google.com/drive/folders/0Bwvn9S-4oeMmeHhzUS1nM0FNak0?usp=sharing) is another storage site commonly used to share information with the entire lab. This information includes locations of reagents, protocols, and example fellowship/qualifying exam documents. Lab members generally do not use this space to store data. You should be updating these files if you move or receive reagents or if you develop any protocols for the lab. 
 
-### Vanderbilt Box
-[Vanderbilt Box](https://vanderbilt.account.box.com/login) is where most data and document sharing with Ethan occurs. You should use your normal VU NetID and password to log into this account. If this is your fist time logging in, you should make a folder entitled "[Your Name] Research" and share it with Ethan. This is where research updates, subgroup meeting presentations, raw paper data, etc. is stored. ***Once you have submitted a paper, make sure that Ethan has all the raw data in a Box folder in order to comply with RCR standards!***
+### Vanderbilt Box {#vanderbiltbox}
+[Vanderbilt Box](https://vanderbilt.account.box.com/login) is where most data and document sharing with Ethan occurs. You should use your normal VU NetID and password to log into this account. If this is your fist time logging in, you should make a folder entitled "[Your Name] Research" and share it with Ethan. This is where research updates, subgroup meeting presentations, raw paper data, etc. is stored. ***Once you have submitted a paper, make sure that Ethan has all the raw data in a Box folder in order to comply with RCR standards!*** [Subgroup meeting presentations](#subgroup) and lab meeting presentations should also be stored in your box folder for future reference. 
 
 ### GitHub 
 The [Lippmann Lab GitHub](https://github.com/lippmannlab) is where code sharing occurs. There are different repositories for different programs that lab members use to quantify their data or control their bioreactors. Generally, the repositories that involve quantifying data stores a README file that explains how to install and use the code, all the code needed to run the program, and an example file to run the code with. If you edit any part of these repositories, make sure your commit messages are detailed enough that others can understand what changes you have made. If you are creating a new repository, follow the "Neuron Image Processor" as a template for what should be included. Public repositories such as the Spinfinity code does not require a GitHub account to access, but any private repositories will require that you create an account and that a lab member adds you as a collaborator to the project. 
@@ -33,14 +33,14 @@ Furthermore, this [Excel Journal Database](https://www.youtube.com/watch?v=Y40Wy
 ## Communication 
 This section will contain tips on how to present scientific work. An entire chapter is dedicated to writing manuscripts. 
 
-### Creating an Oral Presentation 
+### Creating an Oral Presentation {#oralpres}
 All graduate students and postdocs will present a research update once a semester at the lab group meeting. Additionally, lab members may have the opportunity to speak at department retreats, seminars, and conferences. 
 
 - 
 
-- Practice your oral presentation with the lab! If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about avaliability, and senior students would be happy to watch a practice presentation. 
+- **[Practice](#practice) your oral presentation with the lab**! If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about avaliability, and senior students would be happy to watch a practice presentation. 
 
-#### Journal Club Presentations
+#### Journal Club Presentations {#journalclub}
 The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club.
 
 - **Picking an article to present:** You should choose a paper that has been published relatively recently. Ethan will typically assist younger students before their first presentation. 
