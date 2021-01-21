@@ -45,8 +45,6 @@ The lab rotates who presents an article for our lab's journal club, which is usu
 
 - **Picking an article to present:** You should choose a paper that has been published relatively recently. Ethan will typically assist younger students before their first presentation. 
 
-- **P
-
 ### Creating a Poster Presentation 
 
 - Posters should feature 

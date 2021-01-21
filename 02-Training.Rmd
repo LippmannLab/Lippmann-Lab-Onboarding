@@ -28,21 +28,26 @@ Everyone is required to take several training modules through [Oracle](https://s
 - Biosafety Orientation Checklist & Record - must be filled out by every new lab member and copy kept in lab
 
 ## Required Training for Lab Members Conducting Animal Studies
-If you are working with animals, you should also sign up for the following training module:
+If you are working with animals, you should also sign up for the following training modules after completing the training listed above:
 
-- Prior to starting animal work, new lab members must be added to the appropriate IACUC protocols by Ethan or another individual with protcol editing rights. 
+1. Go to the [DAC website](https://www.vumc.org/acup/). 
 
-- Fill out the [Animal Allergy Form](http://healthandwellness.vanderbilt.edu/news/2011/09/animal-allergy-questionnaire/). 
+2. Click [training](https://www.vumc.org/acup/iacuc/training) and log in either as VUMC or VU (depends on your home department). 
 
-- Complete [AALAS Training Couses](https://www.vumc.org/acup/iacuc/training/required_training). Note that if you are using animals other than mice or rats, you may need to complete additional training modules. 
+3. This [site](https://www.vumc.org/acup/acup-iacuc-required-course-information) lists all the required training. You are only required to complete sections I and IV. 
 
-- In order to gain access to the animal facility, you must complete the following steps:
-  
-  - Confirm that you have finished training and filling out the allergy form and that you have been added to an approved IACUC Protocol.
-  
-  - Determine the facility you want to use.
-  
-  - Register for a specific Facility Tour (date and time) by emailing [Jenny Taylor](mailto:jenny.taylor@vumc.org) or registering for a tour through [Rate](https://www.mc.vanderbilt.edu/gcm/rate/in
-dex.php?SessionID=1495). 
+    - Section I: Complete all required training for the species you will be working with (most likely mouse) through [AALAS](https://sso.aalaslearninglibrary.org/Shibboleth.sso/Login?entityID=https://sso.service.vumc.org). 
+    
+    - Section IV: Register for an ACUP Animal Facility Access Tour. 
+    
+    - This [link](https://www.vumc.org/acup/acup-iacuc-recommended-courses) also contains some helpful training information. 
 
-For more information, refer to the [VUMC Animal Care and Use Program](https://www.vumc.org/acup/welcome) or ask a senior lab member who works with animals. 
+4. Once you complete the required training, send a copy of the transcript to [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu). 
+
+5. Fill out the [animal allergy survey](https://www.vumc.org/health-wellness/news-resource-articles/animal-allergy-questionnaire) if not a student or [this form](https://www.vumc.org/student-health/sites/default/files/Animal%20Allergy%20Questionnaire%20and%20IACUC%20Occ.%20Health%20Form.pdf) if a student (through student health). 
+
+6. Once complete, let [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu) know, and she will add you to an IACUC protocol. 
+
+7. Once approved, you will need to sign up for a facility training session. You can ask [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu) for assistance with setting up this training. 
+
+For more information, refer to the [VUMC Animal Care and Use Program](https://www.vumc.org/acup/welcome), email [ACUP Training](mailto: acuptraining@vumc.org), or ask [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu). 
