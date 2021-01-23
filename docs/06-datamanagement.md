@@ -36,14 +36,30 @@ This section will contain tips on how to present scientific work. An entire chap
 ### Creating an Oral Presentation {#oralpres}
 All graduate students and postdocs will present a research update once a semester at the lab group meeting. Additionally, lab members may have the opportunity to speak at department retreats, seminars, and conferences. 
 
-- 
+- **Make sure you don't put too much content on each slide.** The goal is for your audience to listen to you as you speak and not spend the entire time trying to read your slide. Figures are preferable over text. Large or complicated figures should be broken down. You can use basic animations to make the information contained in the slides, but don't get too cute with your use of animations. You can also split complicated topics into a couple slides. Animations or pointers can also help your audience know what you are discussing on each slide. 
 
-- **[Practice](#practice) your oral presentation with the lab**! If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about avaliability, and senior students would be happy to watch a practice presentation. 
+- **Make sure your slide titles are descriptive and contain the main takeway.** Don't use slide titles that don't add any information or is too technical. 
+
+- **Citations should be enough information for you audience to find the articles/websites.** This is usually the fist author, journal title, and year at the minimum for articles. You should cite all figures that are not originally made by you. 
+
+- **Make sure your text is large enough to be seen from far way.**
+
+- **Figues should be fully explained.** You should describe what the data points are, what the axes mean, etc. in addition to explaining the main takeway from the figure. 
+
+- **Remember that anything you put on your slide is fair game.** The audience has the right to ask you questions on anything that you put on your slide. This is especially true for qualifying exams and dissertation defenses. Be careful putting in information or figures that you are not prepared to explain in detail. 
+
+- **It's usually a good idea to pause briefly before moving on to the next slide in order to see if anyone has any questions.** You can also incorporate planned pauses into your presentations in order to make room for audience questions. 
+
+- **Be aware of who your audience is when you are creating your presentations.** The way that you present in a lab meeting might be different than how you present at a conference. Make sure you know who might be in your audience when you are putting it together so that you don't get too technical and detailed or too broad and superficial. This includes knowing when you should define abbreviations. For example, you might not need to define iPSCs or BBB in lab meetings, but you should define it at a qualifying exam or at a conference. 
+
+- **If you are using a pointer, make sure you practice using it before you present.**
+
+- **[Practice](#practice) your oral presentation with the lab**! If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about availability, and senior students would be happy to watch a practice presentation. 
 
 #### Journal Club Presentations {#journalclub}
 The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club.
 
-- **Picking an article to present:** You should choose a paper that has been published relatively recently. Ethan will typically assist younger students before their first presentation. 
+- **Picking an article to present:** You should choose a paper that has been published relatively recently. Ethan will typically assist younger students before their first presentation. These articles should be sent to lab at least a week prior to presenting. 
 
 ### Creating a Poster Presentation 
 
