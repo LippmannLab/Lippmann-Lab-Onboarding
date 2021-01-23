@@ -11,13 +11,13 @@ Many [core facilities](#corefacilities) also have their own folders for storing 
 #### Remote Access Using Pulse Virtual Private Network (VPN)
 If you want to access data saved in these folders off-campus, you will need to set up [Pulse VPN](https://it.vanderbilt.edu/services/catalog/end-point_computing/network_access/remote-access/index.php). Note that you will need [Duo Multi-Factor Authentification](#duo) set up to use the Pulse VPN service. If you are on campus and connected to the Vanderbilt WiFi, you should be able to open these folders without connecting to the VPN. 
 
-### Google Drive 
+### Google Drive {#googledrive}
 The [lab Google Drive folder](https://drive.google.com/drive/folders/0Bwvn9S-4oeMmeHhzUS1nM0FNak0?usp=sharing) is another storage site commonly used to share information with the entire lab. This information includes locations of reagents, protocols, and example fellowship/qualifying exam documents. Lab members generally do not use this space to store data. You should be updating these files if you move or receive reagents or if you develop any protocols for the lab. 
 
 ### Vanderbilt Box {#vanderbiltbox}
 [Vanderbilt Box](https://vanderbilt.account.box.com/login) is where most data and document sharing with Ethan occurs. You should use your normal VU NetID and password to log into this account. If this is your fist time logging in, you should make a folder entitled "[Your Name] Research" and share it with Ethan. This is where research updates, subgroup meeting presentations, raw paper data, etc. is stored. ***Once you have submitted a paper, make sure that Ethan has all the raw data in a Box folder in order to comply with RCR standards!*** [Subgroup meeting presentations](#subgroup) and lab meeting presentations should also be stored in your box folder for future reference. 
 
-### GitHub 
+### GitHub {#github}
 The [Lippmann Lab GitHub](https://github.com/lippmannlab) is where code sharing occurs. There are different repositories for different programs that lab members use to quantify their data or control their bioreactors. Generally, the repositories that involve quantifying data stores a README file that explains how to install and use the code, all the code needed to run the program, and an example file to run the code with. If you edit any part of these repositories, make sure your commit messages are detailed enough that others can understand what changes you have made. If you are creating a new repository, follow the "Neuron Image Processor" as a template for what should be included. Public repositories such as the Spinfinity code does not require a GitHub account to access, but any private repositories will require that you create an account and that a lab member adds you as a collaborator to the project. 
 
 ### Computer Back Ups
@@ -96,6 +96,56 @@ Lab members may also present their work in poster at internal and external meeti
 - You can refer to the [Better poster movement](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) for additional tips on creating a poster presentation. 
 
 ## Computation/Data Analysis
-- software, norms for analysis
-- scripting (language), version control 
-- documentation 
+### Accessing Software
+We use a variety of software for analyzing data. [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) are open source and free to download. [Fiji/ImageJ](https://imagej.net/Fiji) is an open source tool for processing images. Other sofware such as Microsoft Office and Matlab can be downloaded for free from [Vanderbilt IT Services](https://it.vanderbilt.edu/software-store/). Other software can also be bought at a discount through Vanderbilt IT. You can discuss any software needs with Ethan in order to see if the lab should buy a license.
+
+### Norms for Analysis
+- Our lab uses [this Excel spreadsheet](https://drive.google.com/file/d/1eRxUonvqSrtfm6mePRuh6x_J_fUgkLIo/view?usp=sharing) as a template for analyzing TEER data. 
+
+- Make sure scale bars are sufficiently large enough to be seen if the image is small. You should have a scale bar in at least one image if you have a series of images that are at the same scale. 
+
+### Documentation 
+- **Protocol generation and storage occurs in our lab's [Google Drive Folder](#googledrive).**
+    - Make sure you cite any papers that your protocols might be based off of. 
+    
+    - Make sure you note any edits you make to existing protocols. 
+    
+    - All protocols should contain a list of reagents (with product numbers) and reagent preparation/storage information in addition to the protocol. 
+    
+    - Include graphics as necessary to understand the timeline of different differentiation protocols. You can also include markers that are used to verify cell identities as applicable. 
+    
+    - Add a sufficient amount of information in your protocol so that your lab members can follow the protocol with minimal guidance. 
+
+- **Code documentation is stored in our lab's [Github](#github).** 
+    - Make sure your commits are informative and explain what you changed and why.
+    
+    - Make sure you provide an example of how to run your code. 
+    
+    - Make sure you describe how to install your code and what the inputs/outputs should be. 
+
+### Tools
+- **Learning to Code**
+    - [CZI](https://chanzuckerberg.com/ndcn/member-login/?redirect_to=https://chanzuckerberg.com/ndcn/) holds weekly [Computational Biology Office Hours](https://docs.google.com/spreadsheets/d/10Euplhsqu_e9fZAnuadgKFWKtDzElxS664gwxAsWvbg/edit#gid=213176177) to address computational needs in the neurodegeneration community. They can also hold Hackathons to specifically address any computational problems that a lab might want to solve. The CZI Neurodegeneration website also has a section where you can access any computational resources created in the community. 
+    
+    - [Choose youR own Pythway](https://openscapes.github.io/cyop/)
+    
+    - [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/)
+    
+    - [R for Data Science](https://r4ds.had.co.nz/)
+    
+    - [Statistics and R](https://www.edx.org/course/statistics-and-r)
+    
+    - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    
+    - [Really Friendly Command Line Intro](https://hellowebbooks.com/learn-command-line/)
+    
+    - [Intro to ImageJ](https://imagej.net/Introduction)
+    
+    - [Carpentries Sofware Lessons](https://software-carpentry.org/lessons/) and [Carpentries Data Lessons](https://datacarpentry.org/lessons/)
+
+- **RNAseq**
+    - [Analysis of single cell RNA-seq data](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+    
+    - [Current best-practices in single-cell RNA-seq: a tutorial](https://github.com/theislab/single-cell-tutorial)
+    
+    - [Getting Started with Cell Ranger (10X Platform)](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov)

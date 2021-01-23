@@ -93,3 +93,8 @@ contribute
 not-comfortable-with-coding
 comfortable-with-github
 interested-in-assisting-the-document-maintenance
+accessing-software
+norms-for-analysis
+documentation
+tools
+googledrive
