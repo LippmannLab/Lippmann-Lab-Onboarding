@@ -54,22 +54,46 @@ All graduate students and postdocs will present a research update once a semeste
 
 - **If you are using a pointer, make sure you practice using it before you present.**
 
-- **[Practice](#practice) your oral presentation with the lab**! If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about availability, and senior students would be happy to watch a practice presentation. 
+- **[Practice](#practice) your oral presentation with the lab!** If you are presenting at a conference/meeting or for a department milestone, it is highly encouraged that you practice with the lab. Just send out an email or Slack message about availability, and senior students would be happy to watch a practice presentation. 
 
 #### Journal Club Presentations {#journalclub}
-The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club.
+The lab rotates who presents an article for our lab's journal club, which is usually emailed out at the beginning of each semester. There are also other opportunities to present at other journal clubs on campus such as at the Alzheimer's Disease Journal Club. In addition to the tips from the above section on oral presentations, here are some additional tips for presenting at journal clubs. 
 
 - **Picking an article to present:** You should choose a paper that has been published relatively recently. Ethan will typically assist younger students before their first presentation. These articles should be sent to lab at least a week prior to presenting. 
 
-### Creating a Poster Presentation 
+- **Know background material about the chosen paper.** You should have knowledge of the research and work that contributed to the paper you chose to present. You should provide enough information in the introduction for lab members who may not be familiar with the topics described in the paper. Simplify complex topics for non-experts to understand.
 
-- Posters should feature 
+- **Describe the research question and the importance/context of the research.** This can also help organize your presentation as the authors draw conclusions to answer these research questions.
+
+- **Break down figures and other complex information.** The way data is presented in a paper is not necessarily the way it should be presented in an oral presentation. Break down figures into smaller, understandable chunks so that it's not too overwhelming to your audience. Additionally, make sure you make the figures large enough for your audience to read. Be ready to discuss all the components of the figures. Try not to make your slides too text heavy. 
+
+- **Provide information on uncommon techniques used in the paper.**
+
+- **Be ready to discuss the paper in lab.** Identify pros and cons about the techniques used and/or the conclusions drawn from the paper. What questions did you still have after reading the paper? This helps show an understanding of the paper, and what you learn from this practice can help with peer reviewing papers. Additionally, it can lead to better lab discussions about the paper. 
+
+- **Be ready to discuss why you chose that paper.** You can talk about how it relates to your work or techniques you are interested in using. 
+
+### Creating a Poster Presentation 
+Lab members may also present their work in poster at internal and external meetings and conferences. 
+
+- **Know who your audience is when creating your poster.** This will help determine how much background information needs to be provided as well as what jargon you should use. Your poster should not be too technical and detailed if you are presenting to a broad conference, but it should also not be too broad or simplified if you are presenting at a field-specific conference. 
+- **Your posters should contain at minimum:** an introduction/background/significance section, at least one results/discussion/methods section, a conclusion/future directions section, an acknowledgments section, and a reference section. 
+
+- **Figures and diagrams are preferable to text, but you should give enough information that your audience can understand your figures and the conclusions that are drawn from your results.** 
+
+- **Use bullet points with short sentences/phrases rather than paragraphs of text for easier reading.** Make sure any text is concise and relevant. Use consistent formatting throughout the poster. Try to avoid redundancy and vague phrases. Make sure your results headings draw attention to the question you are answering and/or conclusions you are drawing from the results.
+
+- **Make sure figures and text are legible from far away.** 
+
+- **Use blank space wisely.** This empty space can help draw attention to important information. Scale and color can also demonstrate relative importance. 
+
+- **Practice how you are going to present your poster to your audience.** 
+
+- **Senior students would be happy to look over posters and provide feedback.** 
 
 - Poster templates can be found [here](https://drive.google.com/drive/folders/1V1ykFkQy5sY_4hgSlZhh6y-axiy3mreH?usp=sharing). You can download these templates and edit it for your own posters. 
 
 - You can refer to the [Better poster movement](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) for additional tips on creating a poster presentation. 
-
-- Senior students would be happy to look over posters and provide feedback. 
 
 ## Computation/Data Analysis
 - software, norms for analysis
