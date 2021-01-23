@@ -143,7 +143,7 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
     
     - [Carpentries Sofware Lessons](https://software-carpentry.org/lessons/) and [Carpentries Data Lessons](https://datacarpentry.org/lessons/)
 
-- **RNAseq**
+- **sc-RNAseq**
     - [Analysis of single cell RNA-seq data](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
     
     - [Current best-practices in single-cell RNA-seq: a tutorial](https://github.com/theislab/single-cell-tutorial)

@@ -341,7 +341,7 @@
 <li><p><a href="https://imagej.net/Introduction">Intro to ImageJ</a></p></li>
 <li><p><a href="https://software-carpentry.org/lessons/">Carpentries Sofware Lessons</a> and <a href="https://datacarpentry.org/lessons/">Carpentries Data Lessons</a></p></li>
 </ul></li>
-<li><strong>RNAseq</strong>
+<li><strong>sc-RNAseq</strong>
 <ul>
 <li><p><a href="https://scrnaseq-course.cog.sanger.ac.uk/website/index.html">Analysis of single cell RNA-seq data</a></p></li>
 <li><p><a href="https://github.com/theislab/single-cell-tutorial">Current best-practices in single-cell RNA-seq: a tutorial</a></p></li>
@@ -408,6 +408,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

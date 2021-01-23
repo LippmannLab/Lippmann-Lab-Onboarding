@@ -51,7 +51,7 @@ storage-and-documentation
 lab-shared-network-drive
 other-shared-access-drives
 remote-access-using-pulse-virtual-private-network-vpn
-google-drive
+googledrive
 vanderbiltbox
 github
 computer-back-ups
@@ -61,6 +61,10 @@ oralpres
 journalclub
 creating-a-poster-presentation
 computationdata-analysis
+accessing-software
+norms-for-analysis
+documentation
+tools
 manuscript-preparation
 the-process
 writing-resources
@@ -93,8 +97,3 @@ contribute
 not-comfortable-with-coding
 comfortable-with-github
 interested-in-assisting-the-document-maintenance
-accessing-software
-norms-for-analysis
-documentation
-tools
-googledrive

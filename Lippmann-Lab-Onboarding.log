@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  21 JAN 2021 17:00
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  23 JAN 2021 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -824,7 +824,10 @@ Underfull \hbox (badness 2189) in paragraph at lines 117--119
 [][] [] [][] [] [][][][][][][][][][] [] [][][] []
  []
 
-[9] [10] [11] [12]
+[9] [10] [11]
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+[12]
 
 Package hyperref Warning: Suppressing link with empty target on input line 175.
 
@@ -832,7 +835,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 175.
 [13] [14]
 Chapter 2.
 
-Underfull \vbox (badness 5231) has occurred while \output is active []
+Underfull \vbox (badness 1215) has occurred while \output is active []
 
 [15
 
@@ -841,12 +844,12 @@ Underfull \vbox (badness 5231) has occurred while \output is active []
 ]
 Chapter 3.
 
-Underfull \hbox (badness 1102) in paragraph at lines 302--302
+Underfull \hbox (badness 1102) in paragraph at lines 306--306
 []\TU/lmr/bx/n/14.4 Logging onto Oracle to Access Training
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 322--322
+Underfull \hbox (badness 1215) in paragraph at lines 326--326
 []\TU/lmr/bx/n/14.4 Required Training Modules for All Lab
  []
 
@@ -862,60 +865,72 @@ Chapter 5.
 
 ]
 Chapter 6.
-[37] [38] [39] [40]
-Chapter 7.
-[41
+[37] [38] [39] [40] [41]
+Underfull \hbox (badness 4479) in paragraph at lines 933--935
+[]\TU/lmr/bx/n/10 Your posters should contain at minimum: \TU/lmr/m/n/10 an int
+roduc-
+ []
 
-] [42] [43] [44
+
+Overfull \hbox (14.39201pt too wide) in paragraph at lines 933--935
+\TU/lmr/m/n/10 tion/background/significance section, at least one results/discu
+ssion/methods
+ []
+
+[42] [43] [44]
+Chapter 7.
+[45
+
+] [46] [47] [48
 
 ]
 Chapter 8.
-[45] [46] [47] [48] [49]
-Underfull \hbox (badness 1776) in paragraph at lines 1151--1151
+[49] [50] [51] [52] [53]
+Underfull \hbox (badness 1776) in paragraph at lines 1276--1276
 []\TU/lmr/bx/n/14.4 The Office of Biomedical Research Ed-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1151--1151
+Underfull \hbox (badness 3189) in paragraph at lines 1276--1276
 \TU/lmr/bx/n/14.4 ucation and Training’s (BRET) Career
  []
 
-[50]
+[54]
 
-Package hyperref Warning: Suppressing link with empty target on input line 1181
+Package hyperref Warning: Suppressing link with empty target on input line 1306
 .
 
 
 Overfull \hbox (191.93903pt too wide) has occurred while \output is active
 \TU/lmr/m/sl/10 8.9.  THE OFFICE OF BIOMEDICAL RESEARCH EDUCATION AND TRAINING’
-S (BRET) CAREER RESOURCES \TU/lmr/m/n/10 51
+S (BRET) CAREER RESOURCES \TU/lmr/m/n/10 55
  []
 
-[51] [52] [53]
+[55] [56] [57]
 Underfull \vbox (badness 1199) has occurred while \output is active []
 
-[54] [55] [56]
+[58] [59] [60]
 Chapter 9.
-[57
+[61
 
 ]
 Overfull \hbox (23.29343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 58 \TU/lmr/m/sl/10 CHAPTER 9.  HOW TO CONTRIBUTE TO THE ONBOARDI
+\TU/lmr/m/n/10 62 \TU/lmr/m/sl/10 CHAPTER 9.  HOW TO CONTRIBUTE TO THE ONBOARDI
 NG DOCUMENT
  []
 
-[58] (./Lippmann-Lab-Onboarding.aux)
+[62] (./Lippmann-Lab-Onboarding.aux)
 Package rerunfilecheck Info: File `Lippmann-Lab-Onboarding.out' has not changed
 .
 (rerunfilecheck)             Checksum: 989404264B62E5A97372D46AD7CCA961;10484.
  ) 
 Here is how much of TeX's memory you used:
- 16343 strings out of 479290
- 289038 string characters out of 5875625
- 743652 words of memory out of 5000000
- 35622 multiletter control sequences out of 15000+600000
+ 16347 strings out of 479290
+ 289099 string characters out of 5875625
+ 743846 words of memory out of 5000000
+ 35626 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,6n,118p,1236b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Lippmann-Lab-Onboarding.pdf (58 pages).
+Output written on Lippmann-Lab-Onboarding.pdf (62 pages).
