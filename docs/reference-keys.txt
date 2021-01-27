@@ -37,7 +37,6 @@ how-to-place-orders
 prior-to-creating-a-requisition-in-oracle
 catalog-orders
 al-gas-orders
-idt-orders---need-to-talk-to-everett
 noncatalog
 addgene
 amazon-and-capital-equipment-orders

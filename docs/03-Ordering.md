@@ -75,7 +75,7 @@ Commonly purchased items are listed in [this spreadsheet](https://docs.google.co
 3. Once you have Ethan's approval, you can proceed to creating a requisition in Oracle by selecting the "Purchase Requisitions" button in the Procurement tab. 
 
 ### Catalog Orders
-Catalog orders refer to any vendor that can be found on the Aquiire catalog. These vendors include Abcam, Cell Signaling Technology, Fisher, Guy Brown, McMaster, Sigma, and VWR. A list of the current vendors in the Aquiire catalog and additional tips can be found [here](https://drive.google.com/file/d/1FoXTe82I5IBqeLMY3-MZ39DXdckFvCIQ/view?usp=sharing).
+Catalog orders refer to any vendor that can be found on the Aquiire catalog. These vendors include Abcam, Cell Signaling Technology, Fisher, Guy Brown, McMaster, Sigma, IDT, and VWR. A list of the current vendors in the Aquiire catalog and additional tips can be found [here](https://drive.google.com/file/d/1FoXTe82I5IBqeLMY3-MZ39DXdckFvCIQ/view?usp=sharing).
 
 1. Click on the down button next to "Shop by Category" and select "Aquiire."
 
@@ -138,9 +138,6 @@ Catalog orders refer to any vendor that can be found on the Aquiire catalog. The
 
 #### AL Gas Orders 
 We purchase liquid nitrogen, carbon dioxide, and nitrogen gas from AL gas. For gas orders, you will need to include our account number 1218 and the quantity of tanks being delivered/removed from the room number in your purchase order form. You should use the search function on the left of the Aquiire page to find the gas tanks needed and add to cart (you don't use the AL Gas catalog). You should change the delivery location in your requisition from Olin 107 to the room the gas tanks need to be delivered to. In the requisition's "Notes to Supplier" field and the "Justification" field, you should write the following information: "Please deliver to Olin Hall [room number]. Gas account #1218." Also include the number of tanks that you would like removed from the lab space if swapping out multiple tanks. ***If you change out a tank or empty a tank, you should put in an order for a new tank immediately.*** The liquid nitrogen tank should be ordered when you notice that the tank is almost empty or if you have emptied the tank.
-
-#### IDT Orders - need to talk to Everett 
-
 
 ### Non-Catalog Orders {#noncatalog}
 Non-catalog orders refer to vendors that are not on the Aquiire catalog. This includes Peprotech, Genscript, Ted Pella, and [Addgene](#addgene). There are four different types of non-catalog requisitions, but we almost always use the mon-catalog order by quantity and rarely use the non-catalog order by amount. Non-catalog order by quantity should be used if you’re buying a specific number of an item (ex. 2 incubators, 5 tweezers) and non-catalog order by amount should be used for things like service/maintenance.

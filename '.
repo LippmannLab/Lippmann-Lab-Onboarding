@@ -49,4 +49,6 @@ processing file: Contributing.Rmd
 output file: Contributing.knit.md
 
 
-Output created: docs/Lippmann-Lab-Onboarding.epub
+Output created: docs/Lippmann-Lab-Onboarding.pdf
+Warning message:
+LaTeX Warning: No \author given. 

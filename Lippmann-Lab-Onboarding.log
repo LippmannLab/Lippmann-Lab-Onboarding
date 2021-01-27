@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  23 JAN 2021 14:09
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  27 JAN 2021 08:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,12 +827,7 @@ Underfull \hbox (badness 2189) in paragraph at lines 117--119
 [9] [10] [11]
 Underfull \vbox (badness 1117) has occurred while \output is active []
 
-[12]
-
-Package hyperref Warning: Suppressing link with empty target on input line 175.
-
-
-[13] [14]
+[12] [13] [14]
 Chapter 2.
 
 Underfull \vbox (badness 1215) has occurred while \output is active []
@@ -866,13 +861,13 @@ Chapter 5.
 ]
 Chapter 6.
 [37] [38] [39] [40] [41]
-Underfull \hbox (badness 4479) in paragraph at lines 933--935
+Underfull \hbox (badness 4479) in paragraph at lines 930--932
 []\TU/lmr/bx/n/10 Your posters should contain at minimum: \TU/lmr/m/n/10 an int
 roduc-
  []
 
 
-Overfull \hbox (14.39201pt too wide) in paragraph at lines 933--935
+Overfull \hbox (14.39201pt too wide) in paragraph at lines 930--932
 \TU/lmr/m/n/10 tion/background/significance section, at least one results/discu
 ssion/methods
  []
@@ -886,18 +881,18 @@ Chapter 7.
 ]
 Chapter 8.
 [49] [50] [51] [52] [53]
-Underfull \hbox (badness 1776) in paragraph at lines 1276--1276
+Underfull \hbox (badness 1776) in paragraph at lines 1273--1273
 []\TU/lmr/bx/n/14.4 The Office of Biomedical Research Ed-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1276--1276
+Underfull \hbox (badness 3189) in paragraph at lines 1273--1273
 \TU/lmr/bx/n/14.4 ucation and Training’s (BRET) Career
  []
 
 [54]
 
-Package hyperref Warning: Suppressing link with empty target on input line 1306
+Package hyperref Warning: Suppressing link with empty target on input line 1303
 .
 
 
@@ -925,10 +920,10 @@ Package rerunfilecheck Info: File `Lippmann-Lab-Onboarding.out' has not changed
 (rerunfilecheck)             Checksum: 989404264B62E5A97372D46AD7CCA961;10484.
  ) 
 Here is how much of TeX's memory you used:
- 16347 strings out of 479290
- 289099 string characters out of 5875625
- 743846 words of memory out of 5000000
- 35626 multiletter control sequences out of 15000+600000
+ 16346 strings out of 479290
+ 289061 string characters out of 5875625
+ 743768 words of memory out of 5000000
+ 35625 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,6n,118p,1236b,474s stack positions out of 5000i,500n,10000p,200000b,80000s

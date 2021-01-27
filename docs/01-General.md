@@ -4,7 +4,7 @@
 
 1. The lab has a [Google Drive Folder](https://drive.google.com/drive/folders/0Bwvn9S-4oeMmeHhzUS1nM0FNak0?usp=sharing) that we use for documentation and inventory. It should be kept as up-to-date as possible. 
 
-2. The lab has a [Slack](https://join.slack.com/t/lippmann-lab/shared_invite/zt-k04qrgk6-D795CQ2~bDwWv21w2ItPMQ), which we use for quick messaging and lab-specific threads. 
+2. The lab has a [Slack](https://lippmann-lab.slack.com/join/signup#/), which we use for quick messaging and lab-specific threads. 
 
 3. Request to be added to our lab's listserv by emailing its current handler, [Alex Sorets](mailto:alexander.g.sorets@vanderbilt.edu). This is generally used for longer, lab-wide announcements. 
 
@@ -60,7 +60,7 @@ Labs are inevitably messy and disorganized, but there are certain steps that nee
 
 - **When the product arrives, make sure it's stored properly.** [Fridges](https://docs.google.com/spreadsheets/d/1t9L23HuwRWHOCMfKu_rz-U7EgKH5gI7dMqieAY7dIXQ/edit?usp=sharing), [-80 Freezer](https://docs.google.com/spreadsheets/d/1ZrQVxXwKeqDFtX_aHHl4AUQASXxuAAL4-LCeeVI4ZxE/edit?usp=sharing), [-20 Freezers](https://docs.google.com/spreadsheets/d/1bH7JDGURGhdiMtvVTe1rEuFbch9wmwwFYO38IKKVyBw/edit?usp=sharing), flammables cabinet, acid/base cabinet, etc.
 
-- **If you buy a new reagent, add it to our lab [Chemical Inventory](https://docs.google.com/spreadsheets/d/1sGEV2wA1jmqhkC78ZvBATzLQRgwiy3oQyAK6NWkWCLE/edit?usp=sharing). Print out its MSDS form and add it to the in-lab binder. Last, add the compound to our [Vanderbilt Chemtracker Inventory]().** 
+- **If you buy a new reagent, add it to our lab [Chemical Inventory](https://docs.google.com/spreadsheets/d/1sGEV2wA1jmqhkC78ZvBATzLQRgwiy3oQyAK6NWkWCLE/edit?usp=sharing). Print out its MSDS form and add it to the in-lab binder. Last, add the compound to our [Vanderbilt ChemTracker Inventory](vanderbilt.bioraft.com). When you sign into the ChemTracker Inventory, you will skip set up, and you should be able to select "Lippmann Lab" on the left side of the screen.
 
 - **Treat reagents appropriately.** Does your reagent need to be desiccated? If so, put it in the right place. Is your reagent anhydrous or hygroscopic? If so, wrap the cap in parafilm to prevent moisture accumulation. And so on... If you are unsure how to store, use, or dispose of a reagent, talk to a senior lab member. 
 
