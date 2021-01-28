@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  27 JAN 2021 09:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  28 JAN 2021 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -839,12 +839,12 @@ Underfull \vbox (badness 1215) has occurred while \output is active []
 ]
 Chapter 3.
 
-Underfull \hbox (badness 1102) in paragraph at lines 306--306
+Underfull \hbox (badness 1102) in paragraph at lines 308--308
 []\TU/lmr/bx/n/14.4 Logging onto Oracle to Access Training
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 326--326
+Underfull \hbox (badness 1215) in paragraph at lines 328--328
 []\TU/lmr/bx/n/14.4 Required Training Modules for All Lab
  []
 
@@ -861,13 +861,13 @@ Chapter 5.
 ]
 Chapter 6.
 [37] [38] [39] [40] [41]
-Underfull \hbox (badness 4479) in paragraph at lines 930--932
+Underfull \hbox (badness 4479) in paragraph at lines 932--934
 []\TU/lmr/bx/n/10 Your posters should contain at minimum: \TU/lmr/m/n/10 an int
 roduc-
  []
 
 
-Overfull \hbox (14.39201pt too wide) in paragraph at lines 930--932
+Overfull \hbox (14.39201pt too wide) in paragraph at lines 932--934
 \TU/lmr/m/n/10 tion/background/significance section, at least one results/discu
 ssion/methods
  []
@@ -881,18 +881,18 @@ Chapter 7.
 ]
 Chapter 8.
 [49] [50] [51] [52] [53]
-Underfull \hbox (badness 1776) in paragraph at lines 1273--1273
+Underfull \hbox (badness 1776) in paragraph at lines 1275--1275
 []\TU/lmr/bx/n/14.4 The Office of Biomedical Research Ed-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1273--1273
+Underfull \hbox (badness 3189) in paragraph at lines 1275--1275
 \TU/lmr/bx/n/14.4 ucation and Training’s (BRET) Career
  []
 
 [54]
 
-Package hyperref Warning: Suppressing link with empty target on input line 1303
+Package hyperref Warning: Suppressing link with empty target on input line 1305
 .
 
 
