@@ -1,7 +1,7 @@
 ---
 title: "Lippmann Lab Onboarding"
 #author: "Lippmann Lab"
-date: "Updated: 2021-01-28"
+date: "Updated: 2021-01-29"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
