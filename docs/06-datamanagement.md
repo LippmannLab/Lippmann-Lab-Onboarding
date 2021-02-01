@@ -125,7 +125,11 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
 
 ### Tools
 - **Learning to Code**
-    - [CZI](https://chanzuckerberg.com/ndcn/member-login/?redirect_to=https://chanzuckerberg.com/ndcn/) holds weekly [Computational Biology Office Hours](https://docs.google.com/spreadsheets/d/10Euplhsqu_e9fZAnuadgKFWKtDzElxS664gwxAsWvbg/edit#gid=213176177) to address computational needs in the neurodegeneration community. They can also hold Hackathons to specifically address any computational problems that a lab might want to solve. The CZI Neurodegeneration website also has a section where you can access any computational resources created in the community. 
+    - [CZI](https://chanzuckerberg.com/ndcn/member-login/?redirect_to=https://chanzuckerberg.com/ndcn/) holds weekly [Computational Biology Office Hours](https://sifuentescj.gitbook.io/comp-bio-training/) to address computational needs in the neurodegeneration community. They can also hold Hackathons to specifically address any computational problems that a lab might want to solve. The CZI Neurodegeneration website also has a section where you can access any computational resources created in the community. 
+    
+    - [Vanderbilt Data Science Institute Workshops](https://www.vanderbilt.edu/datascience/events/data-science-workshops/)
+    
+    - [Digital Scholarship and Communications Education and Training](https://www.library.vanderbilt.edu/disc/workshops.php)
     
     - [Choose youR own Pythway](https://openscapes.github.io/cyop/)
     
@@ -143,9 +147,15 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
     
     - [Carpentries Sofware Lessons](https://software-carpentry.org/lessons/) and [Carpentries Data Lessons](https://datacarpentry.org/lessons/)
 
-- **sc-RNAseq**
+- **Learning about sc-RNAseq Analysis**
     - [Analysis of single cell RNA-seq data](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
     
     - [Current best-practices in single-cell RNA-seq: a tutorial](https://github.com/theislab/single-cell-tutorial)
     
     - [Getting Started with Cell Ranger (10X Platform)](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov)
+    
+- **Learning How To Conduct Literature Reviews**
+
+    - [Research Productivity Workshop Series](https://researchguides.library.vanderbilt.edu/researchproductivityworkshops)
+    
+    - [Digital Literacies Workshop Series](https://researchguides.library.vanderbilt.edu/digitalliteraciesworkshopseries)
