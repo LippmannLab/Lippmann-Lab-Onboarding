@@ -97,7 +97,7 @@ Lab members may also present their work in poster at internal and external meeti
 
 ## Computation/Data Analysis
 ### Accessing Software
-We use a variety of software for analyzing data. [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) are open source and free to download. [Fiji/ImageJ](https://imagej.net/Fiji) is an open source tool for processing images. Other sofware such as Microsoft Office and Matlab can be downloaded for free from [Vanderbilt IT Services](https://it.vanderbilt.edu/software-store/). Other software can also be bought at a discount through Vanderbilt IT. You can discuss any software needs with Ethan in order to see if the lab should buy a license.
+We use a variety of software for analyzing data. [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) are open source and free to download. [Fiji/ImageJ](https://imagej.net/Fiji) is an open source tool for processing images. Other sofware such as Microsoft Office and Matlab can be downloaded for free from [Vanderbilt IT Services](https://it.vanderbilt.edu/software-store/). Other software can also be bought at a discount through Vanderbilt IT. You can discuss any software needs with Ethan in order to see if the lab should buy a license. [CISR](https://my.vanderbilt.edu/cisr/microscopy-resources/downloads/) also has some tools that can be downloaded for free for image processing and visualization. 
 
 ### Norms for Analysis
 - Our lab uses [this Excel spreadsheet](https://drive.google.com/file/d/1eRxUonvqSrtfm6mePRuh6x_J_fUgkLIo/view?usp=sharing) as a template for analyzing TEER data. 
@@ -159,3 +159,15 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
     - [Research Productivity Workshop Series](https://researchguides.library.vanderbilt.edu/researchproductivityworkshops)
     
     - [Digital Literacies Workshop Series](https://researchguides.library.vanderbilt.edu/digitalliteraciesworkshopseries)
+    
+- **Vanderbilt Cell Imaging Shared Resource (CISR) Tools and Resources**
+
+    - [CISR Downloads Page](https://my.vanderbilt.edu/cisr/microscopy-resources/downloads/)
+    
+    - [Basics of Scientific Digital Imaging](https://benchfly.com/video/5781/basics-of-scientific-digital-imaging/)
+    
+    - [Basics of FIJI/ImageJ Part 1](https://benchfly.com/video/5496/basics-of-fiji-imagej-part-1/)
+    
+    - [Basics of FIJI/Image J Part 2](https://benchfly.com/video/5605/basics-of-fiji-imagej-part-2/)
+    
+    - [FIJI Demo Files](https://www.dropbox.com/sh/0k4z8z8hpofd5a0/AABPEkTbxkLzWVxsmpKNkVSja?dl=0)
