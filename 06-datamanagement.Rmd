@@ -143,8 +143,6 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
     
     - [Really Friendly Command Line Intro](https://hellowebbooks.com/learn-command-line/)
     
-    - [Intro to ImageJ](https://imagej.net/Introduction)
-    
     - [Carpentries Sofware Lessons](https://software-carpentry.org/lessons/) and [Carpentries Data Lessons](https://datacarpentry.org/lessons/)
 
 - **Learning about sc-RNAseq Analysis**
@@ -154,14 +152,18 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
     
     - [Getting Started with Cell Ranger (10X Platform)](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov)
     
+    - [Getting Started with Seurat](https://satijalab.org/seurat/articles/get_started.html)
+    
 - **Learning How To Conduct Literature Reviews**
 
     - [Research Productivity Workshop Series](https://researchguides.library.vanderbilt.edu/researchproductivityworkshops)
     
     - [Digital Literacies Workshop Series](https://researchguides.library.vanderbilt.edu/digitalliteraciesworkshopseries)
     
-- **Vanderbilt Cell Imaging Shared Resource (CISR) Tools and Resources**
+- **Learning about Image Processing**
 
+        - [Intro to ImageJ](https://imagej.net/Introduction)
+    
     - [CISR Downloads Page](https://my.vanderbilt.edu/cisr/microscopy-resources/downloads/)
     
     - [Basics of Scientific Digital Imaging](https://benchfly.com/video/5781/basics-of-scientific-digital-imaging/)
