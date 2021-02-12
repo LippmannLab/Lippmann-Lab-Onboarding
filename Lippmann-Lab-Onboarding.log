@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  5 FEB 2021 11:33
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  12 FEB 2021 12:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,18 +881,18 @@ Chapter 7.
 ]
 Chapter 8.
 [49] [50] [51] [52] [53]
-Underfull \hbox (badness 1776) in paragraph at lines 1308--1308
+Underfull \hbox (badness 1776) in paragraph at lines 1306--1306
 []\TU/lmr/bx/n/14.4 The Office of Biomedical Research Ed-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1308--1308
+Underfull \hbox (badness 3189) in paragraph at lines 1306--1306
 \TU/lmr/bx/n/14.4 ucation and Training’s (BRET) Career
  []
 
 [54]
 
-Package hyperref Warning: Suppressing link with empty target on input line 1338
+Package hyperref Warning: Suppressing link with empty target on input line 1336
 .
 
 
@@ -920,11 +920,11 @@ Package rerunfilecheck Info: File `Lippmann-Lab-Onboarding.out' has not changed
 (rerunfilecheck)             Checksum: 989404264B62E5A97372D46AD7CCA961;10484.
  ) 
 Here is how much of TeX's memory you used:
- 16350 strings out of 479290
- 289122 string characters out of 5875625
+ 16346 strings out of 479290
+ 289061 string characters out of 5875625
  743768 words of memory out of 5000000
- 35627 multiletter control sequences out of 15000+600000
- 409897 words of font info for 82 fonts, out of 8000000 for 9000
+ 35625 multiletter control sequences out of 15000+600000
+ 409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,6n,118p,1236b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 

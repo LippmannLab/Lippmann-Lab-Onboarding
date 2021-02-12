@@ -162,7 +162,7 @@ We use a variety of software for analyzing data. [R](https://www.r-project.org/)
     
 - **Learning about Image Processing**
 
-        - [Intro to ImageJ](https://imagej.net/Introduction)
+    - [Intro to ImageJ](https://imagej.net/Introduction)
     
     - [CISR Downloads Page](https://my.vanderbilt.edu/cisr/microscopy-resources/downloads/)
     
