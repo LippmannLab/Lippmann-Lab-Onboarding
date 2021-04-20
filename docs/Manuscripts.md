@@ -9,11 +9,13 @@ Your papers are your currency from your time in the lab - peer-reviewed proof th
 
 3. **Read the journal's author guidelines.** Most journals have their own specific figure guidelines and word limits. Unless you want to tear your hair out reformatting, check the journal requirements first. 
 
-4. **You will write the first draft - Ethan will be heavily involved in your first paper-writing attempt but preferably less so therafter.** Some re-writing by me is inevitable, but I try to be constructive if I don't agree with the language you've used or the conclusions you've drawn. The first draft typically gets marked up a lot, and subsequent edits are much faster. 
+4. **You will write the first draft - Ethan will be heavily involved in your first paper-writing attempt but preferably less so thereafter.** Some re-writing by me is inevitable, but I try to be constructive if I don't agree with the language you've used or the conclusions you've drawn. The first draft typically gets marked up a lot, and subsequent edits are much faster. 
 
 5. **Track changes as best you can between versions.** If you don't agree with a change I have made, make a comment in the document so I don't think you're just ignoring my opinion. Save each version as a different file in case you need to go back to something written in an earlier version. 
 
 6. **Assemble your figures in Photoshop or Illustrator.** Most journals require a certain resolution and may have their own requirements on fonts and sizes. I typically do all of my figure preparations, including labels, in PowerPoint and then assemble these parts in Photoshop at the desired figure resolution (typically 300-400 dpi). After assembly, images can be compressed by flattening the layers into one final plane. Most journals also require images to be below a certain size (usually 10MB). 
+    
+    - It is becoming standard practice to include individual data points in figures like bar graphs in order to show data distribution. 
     
     - The lab has a [Biorender](https://biorender.com/) license, so you can ask Ethan to get access to the program in order to make figures.
     
