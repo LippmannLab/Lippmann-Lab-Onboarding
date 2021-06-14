@@ -8,7 +8,7 @@
 
 3. Request to be added to our lab's listserv by emailing its current handler, [Alex Sorets](mailto:alexander.g.sorets@vanderbilt.edu). This is generally used for longer, lab-wide announcements. 
 
-4. Email our current building manager, [Ross Denham](mailto:ross.denham@vanderbilt.edu), for access to Olin Hall 004A, 117, 118, 119, and 213A, and for afer-hours access to the building. Have Ethan CC'ed on the email so he send his approval to your email. 
+4. Email our current building manager, [Ross Denham](mailto:ross.denham@vanderbilt.edu), for access to Olin Hall 004A, 117, 118, 119, and 213A, and for after-hours access to the building. Have Ethan CC'ed on the email so he send his approval to your email. 
 
 5. Our lab also has 3 calendars to schedule general lab events, book specific hoods, and to book time on our microscope. Request access to these calendars: [Lippmann Lab Calendar](https://calendar.google.com/calendar/u/0?cid=bXFkOWE3bjM3MTkxbzluYWVtbWw0NDd2bGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab Microscope](https://calendar.google.com/calendar/u/0?cid=ZjNkMXBkbmFwZzc0NWR2YmVmNXU0bGN1YjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab 118 Small Hood](https://calendar.google.com/calendar/u/0?cid=MGk3NGZpdm5ua2JyZjMyc2duNTE2aGMxOWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
@@ -16,9 +16,12 @@
 
 7. Send an email to the [Vanderbilt IT Department](mailto:dts.se.support@Vanderbilt.Edu) asking for access to our lab's shared network drive. Include your VU NetID in this email.
 
-    - Mac: smb://vu1file.it.vanderbilt.edu/lippmannlab/
+\    - Addresses for different computers:
   
-    - PC:  \\\\vu1file.it.vanderbilt.edu\lippmannlab\
+    PC:  (\\vu1file.it.vanderbilt.edu\lippmannlab\)
+    
+    Mac: smb://vu1file.it.vanderbilt.edu/lippmannlab/
+    
 
 
 8. Finally, our lab has a [Github](https://github.com/LippmannLab) that we use for code versioning and internal sharing. 
