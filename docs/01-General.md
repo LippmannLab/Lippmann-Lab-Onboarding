@@ -18,7 +18,7 @@
 
 \    - Addresses for different computers:
   
-    PC:  (\\vu1file.it.vanderbilt.edu\lippmannlab\)
+    PC:  \\vu1file.it.vanderbilt.edu\lippmannlab\
     
     Mac: smb://vu1file.it.vanderbilt.edu/lippmannlab/
     
