@@ -16,9 +16,9 @@
 
 7. Send an email to the [Vanderbilt IT Department](mailto:dts.se.support@Vanderbilt.Edu) asking for access to our lab's shared network drive. Include your VU NetID in this email.
 
-  - Mac: smb://vu1file.it.vanderbilt.edu/lippmannlab/
+    - Mac: smb://vu1file.it.vanderbilt.edu/lippmannlab/
   
-  - PC: \\vu1file.it.vanderbilt.edu\lippmannlab\
+    - PC: \\\vu1file.it.vanderbilt.edu\lippmannlab\
 
 
 8. Finally, our lab has a [Github](https://github.com/LippmannLab) that we use for code versioning and internal sharing. 
