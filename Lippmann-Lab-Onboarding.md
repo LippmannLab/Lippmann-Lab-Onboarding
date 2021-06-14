@@ -43,7 +43,7 @@ The purpose of this document is to outline what the Lippmann lab expects from in
 
     - Mac: smb://vu1file.it.vanderbilt.edu/lippmannlab/
   
-    - PC: \\\vu1file.it.vanderbilt.edu\lippmannlab\
+    - PC: \\\\vu1file.it.vanderbilt.edu\lippmannlab\ 
 
 
 8. Finally, our lab has a [Github](https://github.com/LippmannLab) that we use for code versioning and internal sharing. 
