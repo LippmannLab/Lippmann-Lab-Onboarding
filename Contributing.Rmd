@@ -23,7 +23,7 @@ If you are comfortable with using GitHub and the LaTEX/markdown language, you ca
 
 4. Add your edits. Add a descriptive commit message so that the person reviewing your edit knows what you changed and why. Select "Create a new branch for this commit and start a pull request." Commit your changes. 
 
-5. A lab member who is in charge of maintaining this document will review your pull request and either discuss the change(s) with your or accept your changes. 
+5. A lab member who is in charge of maintaining this document will review your pull request and either discuss the change(s) with you or accept your changes. 
 
 ## Interested in Assisting the Document Maintenance 
 At least one lab member will be in charge of directly editing the document. If you are interested in becoming in charge of maintaining the onboarding document, talk to Ethan or senior lab members to schedule training. No prior experience is necessary - just an interest in learning!
