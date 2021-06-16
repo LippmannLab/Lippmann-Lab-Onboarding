@@ -21,6 +21,7 @@ The purpose of this document is to outline what the Lippmann lab expects from in
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
+options(tinytex.verbose = TRUE)
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
