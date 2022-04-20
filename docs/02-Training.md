@@ -42,12 +42,12 @@ If you are working with animals, you should also sign up for the following train
     
     - This [link](https://www.vumc.org/acup/acup-iacuc-recommended-courses) also contains some helpful training information. 
 
-4. Once you complete the required training, send a copy of the transcript to [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu). 
+4. Once you complete the required training, send a copy of the transcript to [Ethan](mailto:ethan.s.lippmann@Vanderbilt.Edu). 
 
 5. Fill out the [animal allergy survey](https://www.vumc.org/health-wellness/news-resource-articles/animal-allergy-questionnaire) if not a student or [this form](https://www.vumc.org/student-health/sites/default/files/Animal%20Allergy%20Questionnaire%20and%20IACUC%20Occ.%20Health%20Form.pdf) if a student (through student health). 
 
-6. Once complete, let [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu) know, and she will add you to an IACUC protocol. 
+6. Once complete, let [Ethan](mailto:ethan.s.lippmann@Vanderbilt.Edu) know, and she will add you to an IACUC protocol. 
 
-7. Once approved, you will need to sign up for a facility training session. You can ask [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu) for assistance with setting up this training. 
+7. Once approved, you will need to sign up for a facility training session. You can ask [Ethan](mailto:ethan.s.lippmann@Vanderbilt.Edu) for assistance with setting up this training. 
 
-For more information, refer to the [VUMC Animal Care and Use Program](https://www.vumc.org/acup/welcome), email [ACUP Training](mailto: acuptraining@vumc.org), or ask [Sarah](mailto:sarah.m.sturgeon@Vanderbilt.Edu). 
+For more information, refer to the [VUMC Animal Care and Use Program](https://www.vumc.org/acup/welcome), email [ACUP Training](mailto: acuptraining@vumc.org), or ask [Ethan](mailto:ethan.s.lippmann@Vanderbilt.Edu). 
