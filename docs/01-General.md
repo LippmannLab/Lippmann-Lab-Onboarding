@@ -8,9 +8,9 @@
 
 3. Request to be added to our lab's listserv by emailing its current handler, [Alex Sorets](mailto:alexander.g.sorets@vanderbilt.edu). This is generally used for longer, lab-wide announcements. 
 
-4. Email our current building manager, [Ross Denham](mailto:ross.denham@vanderbilt.edu), for access to Olin Hall 004A, 117, 118, 119, and 213A, and for after-hours access to the building. Have Ethan CC'ed on the email so he send his approval to your email. 
+4. Email our current building manager, [Ross Denham](mailto:ross.denham@vanderbilt.edu), for access to Olin Hall 004A, 117, 118, 119, and for after-hours access to the building. Have Ethan CC'ed on the email so he send his approval to your email. 
 
-5. Our lab also has 3 calendars to schedule general lab events, book specific hoods, and to book time on our microscope. Request access to these calendars: [Lippmann Lab Calendar](https://calendar.google.com/calendar/u/0?cid=bXFkOWE3bjM3MTkxbzluYWVtbWw0NDd2bGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab Microscope](https://calendar.google.com/calendar/u/0?cid=ZjNkMXBkbmFwZzc0NWR2YmVmNXU0bGN1YjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Lippmann Lab 118 Small Hood](https://calendar.google.com/calendar/u/0?cid=MGk3NGZpdm5ua2JyZjMyc2duNTE2aGMxOWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
+5. Our lab also has 3 calendars to schedule general lab events, book specific hoods, and to book time on our microscope. Request access to these calendars: [Lippmann Lab Microscope](https://calendar.google.com/calendar/u/0?cid=ZjNkMXBkbmFwZzc0NWR2YmVmNXU0bGN1YjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [Basement Animal Hood](https://calendar.google.com/calendar/u/0?cid=NGRjMzFjZmYyYTc3YWEyOTA3YTMwNmExZDA5MWVkNzUwMzZmODYwN2Q4NWM5OWEyYzM0OGRjYjRlZDRhMjhhN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). 
 
 6. Create an [iLabs](https://vanderbilt.corefacilities.org/landing/2191) account. The first time you log into your account, you will need to add "Lippmann, Ethan (VU) Lab" to your groups. You should use the menu on the left side of the screen and click on "Manage My Groups" to request access.
 
