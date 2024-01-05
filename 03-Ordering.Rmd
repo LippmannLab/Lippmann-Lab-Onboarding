@@ -2,9 +2,9 @@
 
 ## General Ordering Notes
 
-- **Pay attention to the available amount of disposables.** Many orders take several days for the shipment to arrive. If you use the last pipette or culture plate and we can't get any more for a week, everybody's work suffers! When in doubt, just order multiple boxes of things like pipettes or reorder immediately after you open the last box. 
+- **Orders are placed by support staff every Tuesday and Thursday.** Many orders take several days for the shipment to arrive. If you use the last pipette or culture plate and we can't get any more for a week, everybody's work suffers! When in doubt, just order multiple boxes of things like pipettes or reorder immediately after you open the last box. 
 
-- **Get quotes on kits or biologics exceeding $300.** If we buy in bulk, we will almost always get a discount off the website price. All you have to do is email or call the sales department for a company and they will provide a quote to be used on your order. Names, contact information for sales reps, and updated product quotes should be recorded in the [Google Drive Purchasing Folder](https://drive.google.com/file/d/1MHIqY_gJsaVwZvy92M90tAaFEfcg_pQw/view?usp=sharing). If you are ordering from a new vendor that is not in the Vanderbilt system, you must get a quote and fill in the company information in the purchase request form. 
+- **Place order requests by adding information to the ordering documet.** Ask Becca if you have any questions or are struggling to find your desired item. All you have to do is email or call the sales department for a company and they will provide a quote to be used on your order. Names, contact information for sales reps, and updated product quotes should be recorded in the [Google Drive Purchasing Folder](https://docs.google.com/spreadsheets/d/1ZgihDKjzb143oBCUpU2VanAcNk0H_NbtXvUcyO6Vy2w/edit#gid=529170103). If you are ordering from a new vendor that is not in the Vanderbilt system, it might take several weeks to get them approved to purchase from. 
 
 - **Purchase from [Chem Stock](#chemstock) whenever possible.** Chemicals can be purchased from Fisher but typically the Chem Stock has the same ones at cheaper prices (especially 200 proof ethanol), and if the items are in stock, you can get them right away. You will need to make sure you have the proper secondary container for transferring the chemicals back to lab. 
 
@@ -30,7 +30,7 @@ Many disposable items that we use are available through MCBR for immediate use i
 ## Ordering Training
 
 ### Departmental Shopper
-Departmental shoppers are able to create requisitions in Oracle, but are not able to submit their requisitions for processing. They must reassign their requisitions to a Procurement Requester for the order to be placed. Every lab member should become at least a Departmental Shopper. 
+Departmental shoppers are able to create requisitions in Oracle, but are not able to submit their requisitions for processing. They must reassign their requisitions to a Procurement Requester for the order to be placed. Every lab member should become at least a Departmental Shopper as this allows you to see our contract prices. 
 
 1. Access the Introduction to Oracle Cloud Procurement training module in Oracle using the steps listed in the [Training Chapter](#training). 
 
@@ -45,7 +45,7 @@ Departmental shoppers are able to create requisitions in Oracle, but are not abl
 [This link](https://guidedlearning.oracle.com/player/latest/api/scenario/export/+Rjdn_qARDujqKXlbZWDwA/4jxk6hii/?draft=true) describes instructions listed above with images.
 
 ### Procurement Requester
-Procurement Requester are able to create and submit requisitions in Oracle. 
+Procurement Requester are able to create and submit requisitions in Oracle. This is only necessary for support staff.
 
 1. Email [Felisha](mailto:f.c.baquera@VANDERBILT.EDU) to ask her to put you on the list for the purchasing training course in Oracle. Let her know if you are already a Departmental Shopper and that you would like to become a Procurement Requester. At least a few lab members should become a Procurement Requester.
 
@@ -55,7 +55,7 @@ Procurement Requester are able to create and submit requisitions in Oracle.
 
 4. Have someone in the lab review your first catalog and non-catalog orders.
 
-## How to place orders
+## How to place orders for designated departmental procurement requestors. Everyone else, please add your items to the ordering document above.
 Commonly purchased items are listed in [this spreadsheet](https://docs.google.com/spreadsheets/d/13m76wa6D7RpNgtVolgLW7oUlB0JmVAlQNCRtXGdosbc/edit?usp=sharing). This [Purchasing Folder](https://drive.google.com/file/d/1MHIqY_gJsaVwZvy92M90tAaFEfcg_pQw/view?usp=sharing) also stores additional useful ordering information. 
 
 ### Prior to Creating a Requisition in Oracle 
@@ -182,7 +182,7 @@ If a vendor is not listed in Aquiire or when searching in the supplier section o
 
 1. Double check that the supplier is actually not listed. Many vendors use a different name. When searching in Oracle, be sure to check both "Supplier" and "Alternate Name."
 
-2. If the vendor is not a registered supplier with Vanderbilt, you will need to start the process, which can take a few weeks. Only purcurement requestors, not departmental shoppers, can do this process. You can follow the ["New Supplier Requests" instructions](https://www.vanderbilt.edu/skyvu/procurement-requesters.php). 
+2. If the vendor is not a registered supplier with Vanderbilt, you will need to start the process, which can take a few weeks. Only purcurement requestors, not departmental shoppers, can do this process. You can email the CHBE office at chbeorders@vanderbilt.edu. The office staff will complete this for you. If they are not avialable, follow the ["New Supplier Requests" instructions](https://www.vanderbilt.edu/skyvu/procurement-requesters.php). 
 
 3. You will need to ask for the following information from the vendor:
 
@@ -232,3 +232,9 @@ These are commonly used grants to purchase lab supplies. Ethan may direct you to
 
 - R01: SFP_300234.1
   - For most cell culture supplies, disposables, and general wet lab reagents. 
+
+- RF1: SFP_301829
+    - STAT3 Grant
+
+- RF1: SFP_301789
+    - CAA Grant
